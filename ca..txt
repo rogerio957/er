@@ -1,0 +1,1967 @@
+#EXTM3U
+#EXTINF:-1,A&E HD ²
+http://forceie.com:25461/force112179/2179force11/1343
+#EXTINF:-1,A&E SD ²
+http://forceie.com:25461/force112179/2179force11/809
+#EXTINF:-1,A&E SD ¹
+http://forceie.com:25461/force112179/2179force11/169
+#EXTINF:-1,AMC FHD ²
+http://forceie.com:25461/force112179/2179force11/810
+#EXTINF:-1,AMC HD ²
+http://forceie.com:25461/force112179/2179force11/811
+#EXTINF:-1,AMC HD ¹
+http://forceie.com:25461/force112179/2179force11/363
+#EXTINF:-1,AMC SD ¹
+http://forceie.com:25461/force112179/2179force11/147
+#EXTINF:-1,AMC SD ²
+http://forceie.com:25461/force112179/2179force11/812
+#EXTINF:-1,ANIMAL PLANET FHD ²
+http://forceie.com:25461/force112179/2179force11/1337
+#EXTINF:-1,ANIMAL PLANET FHD ¹
+http://forceie.com:25461/force112179/2179force11/1
+#EXTINF:-1,ANIMAL PLANET HD ²
+http://forceie.com:25461/force112179/2179force11/1395
+#EXTINF:-1,ANIMAL PLANET HD ¹
+http://forceie.com:25461/force112179/2179force11/380
+#EXTINF:-1,ANIMAL PLANET SD ²
+http://forceie.com:25461/force112179/2179force11/813
+#EXTINF:-1,ANIMAL PLANET SD ¹
+http://forceie.com:25461/force112179/2179force11/155
+#EXTINF:-1,ARTE 1 FHD ¹
+http://forceie.com:25461/force112179/2179force11/41
+#EXTINF:-1,ARTE 1 HD ¹
+http://forceie.com:25461/force112179/2179force11/365
+#EXTINF:-1,AXN FHD ²
+http://forceie.com:25461/force112179/2179force11/816
+#EXTINF:-1,AXN FHD ¹
+http://forceie.com:25461/force112179/2179force11/2
+#EXTINF:-1,AXN HD ²
+http://forceie.com:25461/force112179/2179force11/1396
+#EXTINF:-1,AXN HD ¹
+http://forceie.com:25461/force112179/2179force11/362
+#EXTINF:-1,AXN SD ²
+http://forceie.com:25461/force112179/2179force11/817
+#EXTINF:-1,AXN SD ¹
+http://forceie.com:25461/force112179/2179force11/170
+#EXTINF:-1,BABY TV HD ²
+http://forceie.com:25461/force112179/2179force11/818
+#EXTINF:-1,BABY TV SD ²
+http://forceie.com:25461/force112179/2179force11/819
+#EXTINF:-1,BABY TV SD ¹
+http://forceie.com:25461/force112179/2179force11/148
+#EXTINF:-1,BAND FHD ¹
+http://forceie.com:25461/force112179/2179force11/3
+#EXTINF:-1,BAND HD ¹
+http://forceie.com:25461/force112179/2179force11/306
+#EXTINF:-1,BAND NEWS FHD ¹
+http://forceie.com:25461/force112179/2179force11/4
+#EXTINF:-1,BAND NEWS HD ²
+http://forceie.com:25461/force112179/2179force11/1398
+#EXTINF:-1,BAND NEWS HD ¹
+http://forceie.com:25461/force112179/2179force11/366
+#EXTINF:-1,BAND NEWS SD ²
+http://forceie.com:25461/force112179/2179force11/820
+#EXTINF:-1,BAND SD ²
+http://forceie.com:25461/force112179/2179force11/1417
+#EXTINF:-1,BAND SD ¹
+http://forceie.com:25461/force112179/2179force11/149
+#EXTINF:-1,BAND SP FHD ²
+http://forceie.com:25461/force112179/2179force11/821
+#EXTINF:-1,BAND SP HD ²
+http://forceie.com:25461/force112179/2179force11/1394
+#EXTINF:-1,BAND SPORTS FHD ¹
+http://forceie.com:25461/force112179/2179force11/5
+#EXTINF:-1,BAND SPORTS HD ²
+http://forceie.com:25461/force112179/2179force11/1397
+#EXTINF:-1,BAND SPORTS HD ¹
+http://forceie.com:25461/force112179/2179force11/357
+#EXTINF:-1,BAND SPORTS SD ¹
+http://forceie.com:25461/force112179/2179force11/178
+#EXTINF:-1,BAND SPORTS SD ²
+http://forceie.com:25461/force112179/2179force11/823
+#EXTINF:-1,BIS FHD ²
+http://forceie.com:25461/force112179/2179force11/1437
+#EXTINF:-1,BIS FHD ¹
+http://forceie.com:25461/force112179/2179force11/87
+#EXTINF:-1,BIS HD ²
+http://forceie.com:25461/force112179/2179force11/848
+#EXTINF:-1,BIS HD ¹
+http://forceie.com:25461/force112179/2179force11/361
+#EXTINF:-1,BIS SD ²
+http://forceie.com:25461/force112179/2179force11/1438
+#EXTINF:-1,BIS SD ¹
+http://forceie.com:25461/force112179/2179force11/150
+#EXTINF:-1,BOA VONTADE HD ²
+http://forceie.com:25461/force112179/2179force11/849
+#EXTINF:-1,BOA VONTADE TV SD ¹
+http://forceie.com:25461/force112179/2179force11/151
+#EXTINF:-1,BOOMERANG FHD ²
+http://forceie.com:25461/force112179/2179force11/850
+#EXTINF:-1,BOOMERANG HD ²
+http://forceie.com:25461/force112179/2179force11/1399
+#EXTINF:-1,BOOMERANG HD ¹
+http://forceie.com:25461/force112179/2179force11/307
+#EXTINF:-1,BOOMERANG SD ²
+http://forceie.com:25461/force112179/2179force11/851
+#EXTINF:-1,BOOMERANG SD ¹
+http://forceie.com:25461/force112179/2179force11/196
+#EXTINF:-1,Boston - Massachusetts
+http://forceie.com:25461/force112179/2179force11/1562
+#EXTINF:-1,CANAL BRASIL FHD ²
+http://forceie.com:25461/force112179/2179force11/852
+#EXTINF:-1,CANAL BRASIL FHD ¹
+http://forceie.com:25461/force112179/2179force11/43
+#EXTINF:-1,CANAL BRASIL HD ²
+http://forceie.com:25461/force112179/2179force11/853
+#EXTINF:-1,CANAL BRASIL HD ¹
+http://forceie.com:25461/force112179/2179force11/367
+#EXTINF:-1,CANAL BRASIL SD ²
+http://forceie.com:25461/force112179/2179force11/854
+#EXTINF:-1,CANAL BRASIL SD ¹
+http://forceie.com:25461/force112179/2179force11/159
+#EXTINF:-1,CANAL DO BOI SD ¹
+http://forceie.com:25461/force112179/2179force11/219
+#EXTINF:-1,CANAL FUTURA SD ²
+http://forceie.com:25461/force112179/2179force11/857
+#EXTINF:-1,CANAL OFF FHD ²
+http://forceie.com:25461/force112179/2179force11/1116
+#EXTINF:-1,CANAL OFF HD ²
+http://forceie.com:25461/force112179/2179force11/1117
+#EXTINF:-1,CANAL OFF SD ²
+http://forceie.com:25461/force112179/2179force11/1118
+#EXTINF:-1,CANAL SONY FHD ²
+http://forceie.com:25461/force112179/2179force11/858
+#EXTINF:-1,CANAL SONY FHD ¹
+http://forceie.com:25461/force112179/2179force11/67
+#EXTINF:-1,CANAL SONY HD ²
+http://forceie.com:25461/force112179/2179force11/1379
+#EXTINF:-1,CANAL SONY HD ¹
+http://forceie.com:25461/force112179/2179force11/368
+#EXTINF:-1,CANAL SONY SD ²
+http://forceie.com:25461/force112179/2179force11/859
+#EXTINF:-1,CANAL SONY SD ¹
+http://forceie.com:25461/force112179/2179force11/225
+#EXTINF:-1,CANALRURAL SD ¹
+http://forceie.com:25461/force112179/2179force11/220
+#EXTINF:-1,CANCAO NOVA FHD ²
+http://forceie.com:25461/force112179/2179force11/1375
+#EXTINF:-1,CANÇAO NOVA SD ¹
+http://forceie.com:25461/force112179/2179force11/171
+#EXTINF:-1,CARTOON NETWORK FHD ²
+http://forceie.com:25461/force112179/2179force11/860
+#EXTINF:-1,CARTOON NETWORK FHD ¹
+http://forceie.com:25461/force112179/2179force11/6
+#EXTINF:-1,CARTOON NETWORK HD ²
+http://forceie.com:25461/force112179/2179force11/1400
+#EXTINF:-1,CARTOON NETWORK HD ¹
+http://forceie.com:25461/force112179/2179force11/369
+#EXTINF:-1,CARTOON NETWORK SD ²
+http://forceie.com:25461/force112179/2179force11/861
+#EXTINF:-1,CARTOON NETWORK SD ¹
+http://forceie.com:25461/force112179/2179force11/197
+#EXTINF:-1,CINEMAX  FHD ¹
+http://forceie.com:25461/force112179/2179force11/44
+#EXTINF:-1,CINEMAX FHD ²
+http://forceie.com:25461/force112179/2179force11/862
+#EXTINF:-1,CINEMAX HD ²
+http://forceie.com:25461/force112179/2179force11/863
+#EXTINF:-1,CINEMAX HD ¹
+http://forceie.com:25461/force112179/2179force11/370
+#EXTINF:-1,CINEMAX SD ²
+http://forceie.com:25461/force112179/2179force11/864
+#EXTINF:-1,CINEMAX SD ¹
+http://forceie.com:25461/force112179/2179force11/175
+#EXTINF:-1,CNN BRASIL FHD ²
+http://forceie.com:25461/force112179/2179force11/867
+#EXTINF:-1,CNN BRASIL FHD ¹
+http://forceie.com:25461/force112179/2179force11/120
+#EXTINF:-1,CNN BRASIL HD ¹
+http://forceie.com:25461/force112179/2179force11/413
+#EXTINF:-1,CNN BRASIL SD ²
+http://forceie.com:25461/force112179/2179force11/868
+#EXTINF:-1,CNN BRASIL SD ¹
+http://forceie.com:25461/force112179/2179force11/303
+#EXTINF:-1,CNN INTERNACIONAL SD ²
+http://forceie.com:25461/force112179/2179force11/869
+#EXTINF:-1,CNN INTERNACIONAL SD ¹
+http://forceie.com:25461/force112179/2179force11/152
+#EXTINF:-1,COMBATE FHD ²
+http://forceie.com:25461/force112179/2179force11/871
+#EXTINF:-1,COMBATE FHD ¹
+http://forceie.com:25461/force112179/2179force11/7
+#EXTINF:-1,COMBATE HD ²
+http://forceie.com:25461/force112179/2179force11/872
+#EXTINF:-1,COMBATE HD ¹
+http://forceie.com:25461/force112179/2179force11/371
+#EXTINF:-1,COMBATE SD ²
+http://forceie.com:25461/force112179/2179force11/873
+#EXTINF:-1,COMBATE SD ¹
+http://forceie.com:25461/force112179/2179force11/160
+#EXTINF:-1,COMEDY CENTRAL FHD ²
+http://forceie.com:25461/force112179/2179force11/1336
+#EXTINF:-1,COMEDY CENTRAL HD ²
+http://forceie.com:25461/force112179/2179force11/1401
+#EXTINF:-1,COMEDY CENTRAL SD ²
+http://forceie.com:25461/force112179/2179force11/874
+#EXTINF:-1,COMEDY HD ¹
+http://forceie.com:25461/force112179/2179force11/372
+#EXTINF:-1,COMEDY SD ¹
+http://forceie.com:25461/force112179/2179force11/158
+#EXTINF:-1,CURTA! SD ²
+http://forceie.com:25461/force112179/2179force11/889
+#EXTINF:-1,Daytona Cam
+http://forceie.com:25461/force112179/2179force11/1586
+#EXTINF:-1,DAZN FHD ²
+http://forceie.com:25461/force112179/2179force11/890
+#EXTINF:-1,DAZN HD ¹
+http://forceie.com:25461/force112179/2179force11/585
+#EXTINF:-1,DAZN SD ²
+http://forceie.com:25461/force112179/2179force11/891
+#EXTINF:-1,DISCOVERY CHANNEL FHD ²
+http://forceie.com:25461/force112179/2179force11/892
+#EXTINF:-1,DISCOVERY CHANNEL FHD ¹
+http://forceie.com:25461/force112179/2179force11/75
+#EXTINF:-1,DISCOVERY CHANNEL HD ²
+http://forceie.com:25461/force112179/2179force11/893
+#EXTINF:-1,DISCOVERY CHANNEL HD ¹
+http://forceie.com:25461/force112179/2179force11/373
+#EXTINF:-1,DISCOVERY CHANNEL SD ¹
+http://forceie.com:25461/force112179/2179force11/180
+#EXTINF:-1,DISCOVERY CHANNEL SD ²
+http://forceie.com:25461/force112179/2179force11/894
+#EXTINF:-1,HGTV HD ²
+http://forceie.com:25461/force112179/2179force11/895
+#EXTINF:-1,DISCOVERY H&H FHD ²
+http://forceie.com:25461/force112179/2179force11/897
+#EXTINF:-1,DISCOVERY H&H FHD ¹
+http://forceie.com:25461/force112179/2179force11/94
+#EXTINF:-1,DISCOVERY H&H HD ¹
+http://forceie.com:25461/force112179/2179force11/374
+#EXTINF:-1,DISCOVERY H&H SD ²
+http://forceie.com:25461/force112179/2179force11/896
+#EXTINF:-1,DISCOVERY H&H SD ¹
+http://forceie.com:25461/force112179/2179force11/181
+#EXTINF:-1,DISCOVERY H&H HD ²
+http://forceie.com:25461/force112179/2179force11/899
+#EXTINF:-1,DISCOVERY KIDS FHD ²
+http://forceie.com:25461/force112179/2179force11/900
+#EXTINF:-1,DISCOVERY KIDS FHD ¹
+http://forceie.com:25461/force112179/2179force11/46
+#EXTINF:-1,DISCOVERY KIDS HD ²
+http://forceie.com:25461/force112179/2179force11/1402
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://forceie.com:25461/force112179/2179force11/309
+#EXTINF:-1,DISCOVERY KIDS SD ¹
+http://forceie.com:25461/force112179/2179force11/182
+#EXTINF:-1,DISCOVERY KIDS SD ²
+http://forceie.com:25461/force112179/2179force11/901
+#EXTINF:-1,DISCOVERY SCIENCE FHD ²
+http://forceie.com:25461/force112179/2179force11/902
+#EXTINF:-1,DISCOVERY SCIENCE FHD ¹
+http://forceie.com:25461/force112179/2179force11/81
+#EXTINF:-1,DISCOVERY SCIENCE HD ²
+http://forceie.com:25461/force112179/2179force11/903
+#EXTINF:-1,DISCOVERY SCIENCE HD ¹
+http://forceie.com:25461/force112179/2179force11/375
+#EXTINF:-1,DISCOVERY SCIENCE SD ¹
+http://forceie.com:25461/force112179/2179force11/236
+#EXTINF:-1,DISCOVERY THEATER FHD ²
+http://forceie.com:25461/force112179/2179force11/904
+#EXTINF:-1,DISCOVERY THEATER FHD ¹
+http://forceie.com:25461/force112179/2179force11/45
+#EXTINF:-1,DISCOVERY THEATER HD ²
+http://forceie.com:25461/force112179/2179force11/905
+#EXTINF:-1,DISCOVERY THEATER HD ¹
+http://forceie.com:25461/force112179/2179force11/376
+#EXTINF:-1,DISCOVERY THEATER SD ¹
+http://forceie.com:25461/force112179/2179force11/235
+#EXTINF:-1,DISCOVERY TURBO FHD  ¹
+http://forceie.com:25461/force112179/2179force11/8
+#EXTINF:-1,DISCOVERY TURBO FHD ²
+http://forceie.com:25461/force112179/2179force11/1373
+#EXTINF:-1,DISCOVERY TURBO HD ²
+http://forceie.com:25461/force112179/2179force11/1403
+#EXTINF:-1,DISCOVERY TURBO HD ¹
+http://forceie.com:25461/force112179/2179force11/310
+#EXTINF:-1,DISCOVERY TURBO SD ²
+http://forceie.com:25461/force112179/2179force11/907
+#EXTINF:-1,DISCOVERY WORLD FHD ²
+http://forceie.com:25461/force112179/2179force11/908
+#EXTINF:-1,DISCOVERY WORLD FHD ¹
+http://forceie.com:25461/force112179/2179force11/47
+#EXTINF:-1,DISCOVERY WORLD HD ²
+http://forceie.com:25461/force112179/2179force11/909
+#EXTINF:-1,DISCOVERY WORLD HD ¹
+http://forceie.com:25461/force112179/2179force11/377
+#EXTINF:-1,DISCOVERY WORLD SD ¹
+http://forceie.com:25461/force112179/2179force11/237
+#EXTINF:-1,DISNEY CHANNEL FHD ²
+http://forceie.com:25461/force112179/2179force11/910
+#EXTINF:-1,DISNEY CHANNEL FHD ¹
+http://forceie.com:25461/force112179/2179force11/48
+#EXTINF:-1,DISNEY CHANNEL HD ²
+http://forceie.com:25461/force112179/2179force11/911
+#EXTINF:-1,DISNEY CHANNEL HD ¹
+http://forceie.com:25461/force112179/2179force11/378
+#EXTINF:-1,DISNEY CHANNEL SD ²
+http://forceie.com:25461/force112179/2179force11/912
+#EXTINF:-1,DISNEY CHANNEL SD ¹
+http://forceie.com:25461/force112179/2179force11/298
+#EXTINF:-1,DISNEY JUNIOR FHD ²
+http://forceie.com:25461/force112179/2179force11/913
+#EXTINF:-1,DISNEY JUNIOR FHD ¹
+http://forceie.com:25461/force112179/2179force11/49
+#EXTINF:-1,DISNEY JUNIOR HD ²
+http://forceie.com:25461/force112179/2179force11/914
+#EXTINF:-1,DISNEY JUNIOR HD ¹
+http://forceie.com:25461/force112179/2179force11/311
+#EXTINF:-1,DISNEY JUNIOR SD ²
+http://forceie.com:25461/force112179/2179force11/915
+#EXTINF:-1,DISNEY JUNIOR SD ¹
+http://forceie.com:25461/force112179/2179force11/153
+#EXTINF:-1,DISNEY XD FHD  ¹
+http://forceie.com:25461/force112179/2179force11/50
+#EXTINF:-1,DISNEY XD FHD ²
+http://forceie.com:25461/force112179/2179force11/917
+#EXTINF:-1,DISNEY XD HD ²
+http://forceie.com:25461/force112179/2179force11/918
+#EXTINF:-1,DISNEY XD HD ¹
+http://forceie.com:25461/force112179/2179force11/360
+#EXTINF:-1,DISNEY XD SD ²
+http://forceie.com:25461/force112179/2179force11/919
+#EXTINF:-1,DISNEY XD SD ¹
+http://forceie.com:25461/force112179/2179force11/247
+#EXTINF:-1,DOG TV FHD ¹
+http://forceie.com:25461/force112179/2179force11/625
+#EXTINF:-1,DOG TV HD ¹
+http://forceie.com:25461/force112179/2179force11/626
+#EXTINF:-1,DW SD ¹
+http://forceie.com:25461/force112179/2179force11/246
+#EXTINF:-1,E! HD ²
+http://forceie.com:25461/force112179/2179force11/927
+#EXTINF:-1,E! SD ²
+http://forceie.com:25461/force112179/2179force11/928
+#EXTINF:-1,EI PLUS 2 HD ²
+http://forceie.com:25461/force112179/2179force11/932
+#EXTINF:-1,EI PLUS 2 SD ²
+http://forceie.com:25461/force112179/2179force11/931
+#EXTINF:-1,EI PLUS 3 HD ²
+http://forceie.com:25461/force112179/2179force11/933
+#EXTINF:-1,EI PLUS 3 SD ²
+http://forceie.com:25461/force112179/2179force11/934
+#EXTINF:-1,EI PLUS 4 HD ²
+http://forceie.com:25461/force112179/2179force11/935
+#EXTINF:-1,EI PLUS 4 SD ²
+http://forceie.com:25461/force112179/2179force11/936
+#EXTINF:-1,EI PLUS 5 HD ²
+http://forceie.com:25461/force112179/2179force11/937
+#EXTINF:-1,EI PLUS 5 SD ²
+http://forceie.com:25461/force112179/2179force11/938
+#EXTINF:-1,EI PLUS 6 HD ²
+http://forceie.com:25461/force112179/2179force11/939
+#EXTINF:-1,EI PLUS 6 SD ²
+http://forceie.com:25461/force112179/2179force11/940
+#EXTINF:-1,EI PLUS HD ²
+http://forceie.com:25461/force112179/2179force11/941
+#EXTINF:-1,EI PLUS SD ²
+http://forceie.com:25461/force112179/2179force11/930
+#EXTINF:-1,ESPN  BRASIL HD ¹
+http://forceie.com:25461/force112179/2179force11/312
+#EXTINF:-1,ESPN 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/1371
+#EXTINF:-1,ESPN 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/9
+#EXTINF:-1,ESPN 2 HD ²
+http://forceie.com:25461/force112179/2179force11/944
+#EXTINF:-1,ESPN 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/313
+#EXTINF:-1,ESPN 2 SD ²
+http://forceie.com:25461/force112179/2179force11/945
+#EXTINF:-1,ESPN 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/238
+#EXTINF:-1,ESPN BRASIL FHD ²
+http://forceie.com:25461/force112179/2179force11/1370
+#EXTINF:-1,ESPN BRASIL HD ²
+http://forceie.com:25461/force112179/2179force11/947
+#EXTINF:-1,ESPN BRASIL SD ²
+http://forceie.com:25461/force112179/2179force11/948
+#EXTINF:-1,ESPN BRASIL SD ¹
+http://forceie.com:25461/force112179/2179force11/199
+#EXTINF:-1,ESPN EXTRA FHD ²
+http://forceie.com:25461/force112179/2179force11/949
+#EXTINF:-1,ESPN EXTRA FHD ¹
+http://forceie.com:25461/force112179/2179force11/51
+#EXTINF:-1,ESPN EXTRA HD ²
+http://forceie.com:25461/force112179/2179force11/950
+#EXTINF:-1,ESPN EXTRA HD ¹
+http://forceie.com:25461/force112179/2179force11/314
+#EXTINF:-1,ESPN EXTRA SD ²
+http://forceie.com:25461/force112179/2179force11/951
+#EXTINF:-1,ESPN EXTRA SD ¹
+http://forceie.com:25461/force112179/2179force11/239
+#EXTINF:-1,ESPN FHD ²
+http://forceie.com:25461/force112179/2179force11/1369
+#EXTINF:-1,ESPN FHD ¹
+http://forceie.com:25461/force112179/2179force11/102
+#EXTINF:-1,ESPN HD ²
+http://forceie.com:25461/force112179/2179force11/953
+#EXTINF:-1,ESPN HD ¹
+http://forceie.com:25461/force112179/2179force11/379
+#EXTINF:-1,ESPN SD ²
+http://forceie.com:25461/force112179/2179force11/954
+#EXTINF:-1,ESPN SD ¹
+http://forceie.com:25461/force112179/2179force11/243
+#EXTINF:-1,EUA: Atlanta International Airport
+http://forceie.com:25461/force112179/2179force11/1598
+#EXTINF:-1,EUA: california - Avila Beach Hotel
+http://forceie.com:25461/force112179/2179force11/1599
+#EXTINF:-1,EUA: MD - Ocean City
+http://forceie.com:25461/force112179/2179force11/1605
+#EXTINF:-1,EUA: panda - San Diego Zoo
+http://forceie.com:25461/force112179/2179force11/1606
+#EXTINF:-1,EUA: Tigres - San Diego Zoo
+http://forceie.com:25461/force112179/2179force11/1608
+#EXTINF:-1,EUA: Urso Polar - San Diego Zoo
+http://forceie.com:25461/force112179/2179force11/1609
+#EXTINF:-1,FASHION FHD ¹
+http://forceie.com:25461/force112179/2179force11/74
+#EXTINF:-1,FASHION TV HD ¹
+http://forceie.com:25461/force112179/2179force11/385
+#EXTINF:-1,FILM & ARTS FHD ²
+http://forceie.com:25461/force112179/2179force11/956
+#EXTINF:-1,FILM & ARTS SD ²
+http://forceie.com:25461/force112179/2179force11/955
+#EXTINF:-1,FILM & ARTS FHD ¹
+http://forceie.com:25461/force112179/2179force11/73
+#EXTINF:-1,FILM & ARTS SD ¹
+http://forceie.com:25461/force112179/2179force11/200
+#EXTINF:-1,FISH TV HD ¹
+http://forceie.com:25461/force112179/2179force11/384
+#EXTINF:-1,FISH TV FHD ¹
+http://forceie.com:25461/force112179/2179force11/78
+#EXTINF:-1,FISH TV SD ¹
+http://forceie.com:25461/force112179/2179force11/162
+#EXTINF:-1,FOOD NETWORK FHD ²
+http://forceie.com:25461/force112179/2179force11/960
+#EXTINF:-1,FOOD NETWORK HD ¹
+http://forceie.com:25461/force112179/2179force11/393
+#EXTINF:-1,FOOD NETWORK SD ²
+http://forceie.com:25461/force112179/2179force11/961
+#EXTINF:-1,FOOD NETWORK SD ¹
+http://forceie.com:25461/force112179/2179force11/201
+#EXTINF:-1,STAR CHANNEL FHD ²
+http://forceie.com:25461/force112179/2179force11/962
+#EXTINF:-1,STAR CHANNEL HD ²
+http://forceie.com:25461/force112179/2179force11/1404
+#EXTINF:-1,STAR CHANNEL HD ¹
+http://forceie.com:25461/force112179/2179force11/404
+#EXTINF:-1,STAR CHANNEL SD ¹
+http://forceie.com:25461/force112179/2179force11/202
+#EXTINF:-1,STAR CHANNEL FHD ¹
+http://forceie.com:25461/force112179/2179force11/10
+#EXTINF:-1,STAR LIFE FHD ¹
+http://forceie.com:25461/force112179/2179force11/11
+#EXTINF:-1,STAR LIFE HD ¹
+http://forceie.com:25461/force112179/2179force11/315
+#EXTINF:-1,STAR LIFE SD ¹
+http://forceie.com:25461/force112179/2179force11/163
+#EXTINF:-1,STAR HITS FHD ²
+http://forceie.com:25461/force112179/2179force11/967
+#EXTINF:-1,STAR HITS HD ²
+http://forceie.com:25461/force112179/2179force11/968
+#EXTINF:-1,STAR HITS HD ¹
+http://forceie.com:25461/force112179/2179force11/405
+#EXTINF:-1,STAR HITS SD ²
+http://forceie.com:25461/force112179/2179force11/966
+#EXTINF:-1,STAR HITS SD ¹
+http://forceie.com:25461/force112179/2179force11/241
+#EXTINF:-1,STAR HITS 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/969
+#EXTINF:-1,STAR HITS 2 HD ²
+http://forceie.com:25461/force112179/2179force11/970
+#EXTINF:-1,STAR HITS 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/316
+#EXTINF:-1,STAR HITS 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/240
+#EXTINF:-1,STAR HITS 2 SD ²
+http://forceie.com:25461/force112179/2179force11/971
+#EXTINF:-1,STAR HITS FHD ¹
+http://forceie.com:25461/force112179/2179force11/12
+#EXTINF:-1,STAR HITS 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/13
+#EXTINF:-1,FOX SPORTS 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/973
+#EXTINF:-1,FOX SPORTS 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/15
+#EXTINF:-1,FOX SPORTS 2 HD ²
+http://forceie.com:25461/force112179/2179force11/1408
+#EXTINF:-1,FOX SPORTS 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/359
+#EXTINF:-1,FOX SPORTS 2 SD ²
+http://forceie.com:25461/force112179/2179force11/974
+#EXTINF:-1,FOX SPORTS FHD  ¹
+http://forceie.com:25461/force112179/2179force11/14
+#EXTINF:-1,FOX SPORTS FHD ²
+http://forceie.com:25461/force112179/2179force11/1368
+#EXTINF:-1,FOX SPORTS HD ²
+http://forceie.com:25461/force112179/2179force11/1407
+#EXTINF:-1,FOX SPORTS HD ¹
+http://forceie.com:25461/force112179/2179force11/355
+#EXTINF:-1,FOX SPORTS SD ²
+http://forceie.com:25461/force112179/2179force11/976
+#EXTINF:-1,FOX SPORTS SD ¹
+http://forceie.com:25461/force112179/2179force11/154
+#EXTINF:-1,FX  HD ¹
+http://forceie.com:25461/force112179/2179force11/407
+#EXTINF:-1,FX FHD ²
+http://forceie.com:25461/force112179/2179force11/977
+#EXTINF:-1,FX FHD ¹
+http://forceie.com:25461/force112179/2179force11/52
+#EXTINF:-1,FX HD ²
+http://forceie.com:25461/force112179/2179force11/1409
+#EXTINF:-1,FX SD ²
+http://forceie.com:25461/force112179/2179force11/978
+#EXTINF:-1,FX SD ¹
+http://forceie.com:25461/force112179/2179force11/164
+#EXTINF:-1,GAZETA SD ¹
+http://forceie.com:25461/force112179/2179force11/294
+#EXTINF:-1,GLOBO ACRE SD ²
+http://forceie.com:25461/force112179/2179force11/983
+#EXTINF:-1,GLOBO BOA VISTA SD ² 
+http://forceie.com:25461/force112179/2179force11/985
+#EXTINF:-1,GLOBO BRASILIA HD ¹
+http://forceie.com:25461/force112179/2179force11/130
+#EXTINF:-1,GLOBO BRASILIA SD ¹
+http://forceie.com:25461/force112179/2179force11/254
+#EXTINF:-1,GLOBO CEARA HD ²
+http://forceie.com:25461/force112179/2179force11/988
+#EXTINF:-1,GLOBO CEARA SD ²
+http://forceie.com:25461/force112179/2179force11/989
+#EXTINF:-1,GLOBO CURITIBA SD ¹
+http://forceie.com:25461/force112179/2179force11/273
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD ²
+http://forceie.com:25461/force112179/2179force11/991
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD ¹
+http://forceie.com:25461/force112179/2179force11/259
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD ¹
+http://forceie.com:25461/force112179/2179force11/260
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD ¹
+http://forceie.com:25461/force112179/2179force11/261
+#EXTINF:-1,GLOBO GOIAS SD  ¹
+http://forceie.com:25461/force112179/2179force11/131
+#EXTINF:-1,GLOBO INTER TV CABUGI SD ¹
+http://forceie.com:25461/force112179/2179force11/263
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD ²
+http://forceie.com:25461/force112179/2179force11/995
+#EXTINF:-1,GLOBO MACAPA HD ²
+http://forceie.com:25461/force112179/2179force11/997
+#EXTINF:-1,GLOBO MACAPA SD ²
+http://forceie.com:25461/force112179/2179force11/998
+#EXTINF:-1,GLOBO MATO GROSSO HD ¹
+http://forceie.com:25461/force112179/2179force11/142
+#EXTINF:-1,GLOBO MINAS HD ¹
+http://forceie.com:25461/force112179/2179force11/124
+#EXTINF:-1,GLOBO MINAS SD ¹
+http://forceie.com:25461/force112179/2179force11/253
+#EXTINF:-1,GLOBO NATAL HD ²
+http://forceie.com:25461/force112179/2179force11/1001
+#EXTINF:-1,GLOBO NEWS FHD ²
+http://forceie.com:25461/force112179/2179force11/1003
+#EXTINF:-1,GLOBO NEWS FHD ¹
+http://forceie.com:25461/force112179/2179force11/128
+#EXTINF:-1,GLOBO NEWS HD ²
+http://forceie.com:25461/force112179/2179force11/1004
+#EXTINF:-1,GLOBO NEWS HD ¹
+http://forceie.com:25461/force112179/2179force11/395
+#EXTINF:-1,GLOBO NEWS SD ²
+http://forceie.com:25461/force112179/2179force11/1005
+#EXTINF:-1,GLOBO NEWS SD ¹
+http://forceie.com:25461/force112179/2179force11/300
+#EXTINF:-1,GLOBO NORDESTE FHD ¹
+http://forceie.com:25461/force112179/2179force11/125
+#EXTINF:-1,GLOBO NORDESTE SD ¹
+http://forceie.com:25461/force112179/2179force11/262
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD ¹
+http://forceie.com:25461/force112179/2179force11/135
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD ¹
+http://forceie.com:25461/force112179/2179force11/136
+#EXTINF:-1,GLOBO PORTO VELHO HD ² 
+http://forceie.com:25461/force112179/2179force11/1012
+#EXTINF:-1,GLOBO PORTO VELHO SD ² 
+http://forceie.com:25461/force112179/2179force11/1013
+#EXTINF:-1,GLOBO RBS FHD ¹
+http://forceie.com:25461/force112179/2179force11/137
+#EXTINF:-1,GLOBO RBS HD ¹
+http://forceie.com:25461/force112179/2179force11/138
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD ²
+http://forceie.com:25461/force112179/2179force11/1410
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD ¹
+http://forceie.com:25461/force112179/2179force11/271
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD ¹
+http://forceie.com:25461/force112179/2179force11/264
+#EXTINF:-1,GLOBO REDE AMAZÔNICA HD ²
+http://forceie.com:25461/force112179/2179force11/1015
+#EXTINF:-1,GLOBO RIO FHD ²
+http://forceie.com:25461/force112179/2179force11/1420
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD ²
+http://forceie.com:25461/force112179/2179force11/1017
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD ²
+http://forceie.com:25461/force112179/2179force11/1018
+#EXTINF:-1,GLOBO RIO HD ²
+http://forceie.com:25461/force112179/2179force11/1019
+#EXTINF:-1,GLOBO RIO SD ²
+http://forceie.com:25461/force112179/2179force11/1020
+#EXTINF:-1,GLOBO RJ FHD ¹
+http://forceie.com:25461/force112179/2179force11/145
+#EXTINF:-1,GLOBO RJ HD ¹
+http://forceie.com:25461/force112179/2179force11/121
+#EXTINF:-1,GLOBO RJ SD ¹
+http://forceie.com:25461/force112179/2179force11/255
+#EXTINF:-1,GLOBO RPC TV CURITIBA HD ¹
+http://forceie.com:25461/force112179/2179force11/129
+#EXTINF:-1,GLOBO SP FHD ²
+http://forceie.com:25461/force112179/2179force11/1023
+#EXTINF:-1,GLOBO SP FHD ¹ 
+http://forceie.com:25461/force112179/2179force11/126
+#EXTINF:-1,GLOBO SP HD ²
+http://forceie.com:25461/force112179/2179force11/1026
+#EXTINF:-1,GLOBO SP HD ¹
+http://forceie.com:25461/force112179/2179force11/127
+#EXTINF:-1,GLOBO SP SD ²
+http://forceie.com:25461/force112179/2179force11/1428
+#EXTINF:-1,GLOBO SP SD ¹
+http://forceie.com:25461/force112179/2179force11/248
+#EXTINF:-1,GLOBO SÃO JOSÉ DO RIO PRETO SD ²
+http://forceie.com:25461/force112179/2179force11/1315
+#EXTINF:-1,GLOBO GOIANIA SD ¹
+http://forceie.com:25461/force112179/2179force11/256
+#EXTINF:-1,GLOBO BAHIA SD ¹
+http://forceie.com:25461/force112179/2179force11/265
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD ¹
+http://forceie.com:25461/force112179/2179force11/266
+#EXTINF:-1,TV DIARIO FHD ¹
+http://forceie.com:25461/force112179/2179force11/146
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD ¹
+http://forceie.com:25461/force112179/2179force11/267
+#EXTINF:-1,GLOBO TV MIRANTE HD ¹
+http://forceie.com:25461/force112179/2179force11/144
+#EXTINF:-1,GLOBO NATAL SD ²
+http://forceie.com:25461/force112179/2179force11/1045
+#EXTINF:-1,GLOBO TV RIO FHD ²
+http://forceie.com:25461/force112179/2179force11/1037
+#EXTINF:-1,GLOBO TV SERGIPE FHD ²
+http://forceie.com:25461/force112179/2179force11/1048
+#EXTINF:-1,GLOBO TV TEM BAURU SD ¹
+http://forceie.com:25461/force112179/2179force11/257
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD ¹
+http://forceie.com:25461/force112179/2179force11/258
+#EXTINF:-1,GLOBO TV TEM SOROCABA ²
+http://forceie.com:25461/force112179/2179force11/1050
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD ¹
+http://forceie.com:25461/force112179/2179force11/269
+#EXTINF:-1,GLOBO TV VANGUARDA S.ÃO JOSE DOS CAMPOS SD ¹
+http://forceie.com:25461/force112179/2179force11/268
+#EXTINF:-1,GLOBO TV VERDES MARES SD ¹
+http://forceie.com:25461/force112179/2179force11/270
+#EXTINF:-1,GLOBO VERDES FHD ¹
+http://forceie.com:25461/force112179/2179force11/133
+#EXTINF:-1,GLOBO VERDES MARES HD ¹
+http://forceie.com:25461/force112179/2179force11/134
+#EXTINF:-1,GLOBO VERDES MARES HD ¹
+http://forceie.com:25461/force112179/2179force11/123
+#EXTINF:-1,GLOBO VITORIA SD ²
+http://forceie.com:25461/force112179/2179force11/1054
+#EXTINF:-1,GLOOB FHD ²
+http://forceie.com:25461/force112179/2179force11/1055
+#EXTINF:-1,GLOOB FHD ¹
+http://forceie.com:25461/force112179/2179force11/53
+#EXTINF:-1,GLOOB HD ²
+http://forceie.com:25461/force112179/2179force11/1056
+#EXTINF:-1,GLOOB HD ¹
+http://forceie.com:25461/force112179/2179force11/354
+#EXTINF:-1,GLOOB SD ²
+http://forceie.com:25461/force112179/2179force11/1060
+#EXTINF:-1,GLOOB SD ¹
+http://forceie.com:25461/force112179/2179force11/191
+#EXTINF:-1,GLOOBINHO FHD ²
+http://forceie.com:25461/force112179/2179force11/1057
+#EXTINF:-1,GLOOBINHO HD ²
+http://forceie.com:25461/force112179/2179force11/1058
+#EXTINF:-1,GLOOBINHO SD ²
+http://forceie.com:25461/force112179/2179force11/1059
+#EXTINF:-1,GNT FHD ²
+http://forceie.com:25461/force112179/2179force11/1061
+#EXTINF:-1,GNT FHD ¹
+http://forceie.com:25461/force112179/2179force11/77
+#EXTINF:-1,GNT HD ²
+http://forceie.com:25461/force112179/2179force11/1062
+#EXTINF:-1,GNT SD ²
+http://forceie.com:25461/force112179/2179force11/1063
+#EXTINF:-1,GNT SD ¹
+http://forceie.com:25461/force112179/2179force11/183
+#EXTINF:-1,HISTORY 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/401
+#EXTINF:-1,HISTORY 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/221
+#EXTINF:-1,HBO  FHD ¹
+http://forceie.com:25461/force112179/2179force11/105
+#EXTINF:-1,HBO  HD ¹
+http://forceie.com:25461/force112179/2179force11/317
+#EXTINF:-1,HBO 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/1064
+#EXTINF:-1,HBO 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/17
+#EXTINF:-1,HBO 2 HD ²
+http://forceie.com:25461/force112179/2179force11/1387
+#EXTINF:-1,HBO 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/318
+#EXTINF:-1,HBO 2 SD ²
+http://forceie.com:25461/force112179/2179force11/1065
+#EXTINF:-1,HBO 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/184
+#EXTINF:-1,HBO FAMILY FHD ²
+http://forceie.com:25461/force112179/2179force11/1066
+#EXTINF:-1,HBO FAMILY FHD ¹
+http://forceie.com:25461/force112179/2179force11/79
+#EXTINF:-1,HBO FAMILY HD ²
+http://forceie.com:25461/force112179/2179force11/1392
+#EXTINF:-1,HBO FAMILY HD ¹
+http://forceie.com:25461/force112179/2179force11/406
+#EXTINF:-1,HBO FAMILY SD ²
+http://forceie.com:25461/force112179/2179force11/1067
+#EXTINF:-1,HBO FAMILY SD ¹
+http://forceie.com:25461/force112179/2179force11/227
+#EXTINF:-1,HBO FHD ²
+http://forceie.com:25461/force112179/2179force11/1068
+#EXTINF:-1,HBO FHD ¹
+http://forceie.com:25461/force112179/2179force11/18
+#EXTINF:-1,HBO HD ²
+http://forceie.com:25461/force112179/2179force11/1390
+#EXTINF:-1,HBO MUNDI FHD ¹
+http://forceie.com:25461/force112179/2179force11/116
+#EXTINF:-1,HBO PLUS FHD ²
+http://forceie.com:25461/force112179/2179force11/1072
+#EXTINF:-1,HBO PLUS FHD ¹
+http://forceie.com:25461/force112179/2179force11/19
+#EXTINF:-1,HBO PLUS HD ²
+http://forceie.com:25461/force112179/2179force11/1389
+#EXTINF:-1,HBO PLUS HD ¹
+http://forceie.com:25461/force112179/2179force11/319
+#EXTINF:-1,HBO PLUS SD ²
+http://forceie.com:25461/force112179/2179force11/1073
+#EXTINF:-1,HBO PLUS SD ¹
+http://forceie.com:25461/force112179/2179force11/185
+#EXTINF:-1,HBO POP FHD ¹
+http://forceie.com:25461/force112179/2179force11/118
+#EXTINF:-1,HBO POP SD ¹
+http://forceie.com:25461/force112179/2179force11/301
+#EXTINF:-1,HBO SD ²
+http://forceie.com:25461/force112179/2179force11/1074
+#EXTINF:-1,HBO SD ¹
+http://forceie.com:25461/force112179/2179force11/192
+#EXTINF:-1,HBO SIGNATURE FHD ²
+http://forceie.com:25461/force112179/2179force11/1071
+#EXTINF:-1,HBO SIGNATURE FHD ¹
+http://forceie.com:25461/force112179/2179force11/54
+#EXTINF:-1,HBO SIGNATURE HD ²
+http://forceie.com:25461/force112179/2179force11/1388
+#EXTINF:-1,HBO SIGNATURE HD ¹
+http://forceie.com:25461/force112179/2179force11/396
+#EXTINF:-1,HBO SIGNATURE SD ²
+http://forceie.com:25461/force112179/2179force11/1070
+#EXTINF:-1,HBO SIGNATURE SD ¹
+http://forceie.com:25461/force112179/2179force11/226
+#EXTINF:-1,HBO XTREME FHD ¹
+http://forceie.com:25461/force112179/2179force11/117
+#EXTINF:-1,Herndon - Virginia - Midway Home Service
+http://forceie.com:25461/force112179/2179force11/1623
+#EXTINF:-1,HGTV HD ¹
+http://forceie.com:25461/force112179/2179force11/414
+#EXTINF:-1,HISTORY 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/1335
+#EXTINF:-1,HISTORY 2 HD ²
+http://forceie.com:25461/force112179/2179force11/1391
+#EXTINF:-1,HISTORY 2 SD ²
+http://forceie.com:25461/force112179/2179force11/1075
+#EXTINF:-1,HISTORY CHANNEL FHD ²
+http://forceie.com:25461/force112179/2179force11/1360
+#EXTINF:-1,HISTORY CHANNEL HD ²
+http://forceie.com:25461/force112179/2179force11/1386
+#EXTINF:-1,HISTORY CHANNEL SD ²
+http://forceie.com:25461/force112179/2179force11/1077
+#EXTINF:-1,HISTORY HD ¹
+http://forceie.com:25461/force112179/2179force11/320
+#EXTINF:-1,HISTORY SD ¹
+http://forceie.com:25461/force112179/2179force11/156
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD ¹
+http://forceie.com:25461/force112179/2179force11/398
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD ¹
+http://forceie.com:25461/force112179/2179force11/249
+#EXTINF:-1,IDEAL SD ¹
+http://forceie.com:25461/force112179/2179force11/203
+#EXTINF:-1,IDEAL TV FHD ¹
+http://forceie.com:25461/force112179/2179force11/96
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD ²
+http://forceie.com:25461/force112179/2179force11/1080
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD ²
+http://forceie.com:25461/force112179/2179force11/1345
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD ²
+http://forceie.com:25461/force112179/2179force11/1081
+#EXTINF:-1,LIFETIME FHD ¹
+http://forceie.com:25461/force112179/2179force11/55
+#EXTINF:-1,LIFETIME SD ¹
+http://forceie.com:25461/force112179/2179force11/204
+#EXTINF:-1,LIFETIME FHD ²
+http://forceie.com:25461/force112179/2179force11/1083
+#EXTINF:-1,LIFETIME SD ²
+http://forceie.com:25461/force112179/2179force11/1084
+#EXTINF:-1,MAIS GLOBO SAT FHD ¹
+http://forceie.com:25461/force112179/2179force11/88
+#EXTINF:-1,MAIS GLOBO SAT SD ¹
+http://forceie.com:25461/force112179/2179force11/195
+#EXTINF:-1,MAIS GLOBOSAT FHD ²
+http://forceie.com:25461/force112179/2179force11/1085
+#EXTINF:-1,MAIS GLOBOSAT HD ²
+http://forceie.com:25461/force112179/2179force11/1086
+#EXTINF:-1,MAIS GLOBOSAT SD ²
+http://forceie.com:25461/force112179/2179force11/1087
+#EXTINF:-1,MEGA PIX FHD ¹
+http://forceie.com:25461/force112179/2179force11/103
+#EXTINF:-1,MEGAPIX HD ¹
+http://forceie.com:25461/force112179/2179force11/386
+#EXTINF:-1,MEGA TV FHD ¹
+http://forceie.com:25461/force112179/2179force11/97
+#EXTINF:-1,MEGA TV SD ¹
+http://forceie.com:25461/force112179/2179force11/251
+#EXTINF:-1,MEGAPIX FHD ²
+http://forceie.com:25461/force112179/2179force11/1097
+#EXTINF:-1,MEGAPIX HD ²
+http://forceie.com:25461/force112179/2179force11/1385
+#EXTINF:-1,MEGAPIX SD ²
+http://forceie.com:25461/force112179/2179force11/1098
+#EXTINF:-1,MEGAPIX SD ¹
+http://forceie.com:25461/force112179/2179force11/177
+#EXTINF:-1,MTV FHD ¹
+http://forceie.com:25461/force112179/2179force11/57
+#EXTINF:-1,MTV HD ²
+http://forceie.com:25461/force112179/2179force11/1384
+#EXTINF:-1,MTV HD ¹
+http://forceie.com:25461/force112179/2179force11/324
+#EXTINF:-1,MTV LIVE FHD ¹
+http://forceie.com:25461/force112179/2179force11/21
+#EXTINF:-1,MTV LIVE HD ¹
+http://forceie.com:25461/force112179/2179force11/325
+#EXTINF:-1,MTV SD ²
+http://forceie.com:25461/force112179/2179force11/1102
+#EXTINF:-1,MTV SD ¹
+http://forceie.com:25461/force112179/2179force11/250
+#EXTINF:-1,MULTISHOW  FHD ¹
+http://forceie.com:25461/force112179/2179force11/58
+#EXTINF:-1,MULTISHOW FHD ²
+http://forceie.com:25461/force112179/2179force11/1103
+#EXTINF:-1,MULTISHOW HD ²
+http://forceie.com:25461/force112179/2179force11/1104
+#EXTINF:-1,MULTISHOW SD ²
+http://forceie.com:25461/force112179/2179force11/1105
+#EXTINF:-1,MULTISHOW SD ¹
+http://forceie.com:25461/force112179/2179force11/194
+#EXTINF:-1,MUSIC BOX BRASIL SD ¹
+http://forceie.com:25461/force112179/2179force11/291
+#EXTINF:-1,NATGEO KIDS FHD ¹
+http://forceie.com:25461/force112179/2179force11/23
+#EXTINF:-1,NATGEO KIDS HD ¹
+http://forceie.com:25461/force112179/2179force11/383
+#EXTINF:-1,NATGEO KIDS SD ²
+http://forceie.com:25461/force112179/2179force11/1107
+#EXTINF:-1,NATGEO WILD FHD ²
+http://forceie.com:25461/force112179/2179force11/1108
+#EXTINF:-1,NATGEO WILD FHD ¹
+http://forceie.com:25461/force112179/2179force11/59
+#EXTINF:-1,NATGEO WILD HD ²
+http://forceie.com:25461/force112179/2179force11/1382
+#EXTINF:-1,NATGEO WILD HD ¹
+http://forceie.com:25461/force112179/2179force11/399
+#EXTINF:-1,NATGEO WILD SD ²
+http://forceie.com:25461/force112179/2179force11/1109
+#EXTINF:-1,NATGEO WILD SD ¹
+http://forceie.com:25461/force112179/2179force11/206
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD ²
+http://forceie.com:25461/force112179/2179force11/1111
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD ¹
+http://forceie.com:25461/force112179/2179force11/22
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD ²
+http://forceie.com:25461/force112179/2179force11/1383
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD ¹
+http://forceie.com:25461/force112179/2179force11/402
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD ²
+http://forceie.com:25461/force112179/2179force11/1110
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD ¹
+http://forceie.com:25461/force112179/2179force11/242
+#EXTINF:-1,NATGEO KIDS SD ¹
+http://forceie.com:25461/force112179/2179force11/299
+#EXTINF:-1,NICK JUNIOR HD ¹
+http://forceie.com:25461/force112179/2179force11/326
+#EXTINF:-1,NICK JUNIOR FHD ¹
+http://forceie.com:25461/force112179/2179force11/60
+#EXTINF:-1,NICK JUNIOR SD ¹
+http://forceie.com:25461/force112179/2179force11/207
+#EXTINF:-1,NICK JUNIOR HD ²
+http://forceie.com:25461/force112179/2179force11/1112
+#EXTINF:-1,NICK JUNIOR SD ²
+http://forceie.com:25461/force112179/2179force11/1113
+#EXTINF:-1,NICKELODEON HD ²
+http://forceie.com:25461/force112179/2179force11/1114
+#EXTINF:-1,NICKELODEON SD ²
+http://forceie.com:25461/force112179/2179force11/1115
+#EXTINF:-1,NICKELODEON FHD ¹
+http://forceie.com:25461/force112179/2179force11/101
+#EXTINF:-1,NICKELODEON SD ¹
+http://forceie.com:25461/force112179/2179force11/297
+#EXTINF:-1,Noruega: Ulvik - Finse Station
+http://forceie.com:25461/force112179/2179force11/1486
+#EXTINF:-1,CANAL OFF FHD ¹
+http://forceie.com:25461/force112179/2179force11/89
+#EXTINF:-1,CANAL OFF SD ¹
+http://forceie.com:25461/force112179/2179force11/222
+#EXTINF:-1,PARAMOUNT CHANNEL HD ²
+http://forceie.com:25461/force112179/2179force11/1380
+#EXTINF:-1,PARAMOUNT CHANNEL SD ²
+http://forceie.com:25461/force112179/2179force11/1119
+#EXTINF:-1,PARAMOUNT FHD ¹
+http://forceie.com:25461/force112179/2179force11/61
+#EXTINF:-1,PARAMOUNT HD ¹
+http://forceie.com:25461/force112179/2179force11/408
+#EXTINF:-1,PARAMOUNT SD ¹
+http://forceie.com:25461/force112179/2179force11/186
+#EXTINF:-1,PLAY TV SD ¹
+http://forceie.com:25461/force112179/2179force11/165
+#EXTINF:-1,POLISHOP SD ¹
+http://forceie.com:25461/force112179/2179force11/252
+#EXTINF:-1,PREMIERE 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/35
+#EXTINF:-1,PREMIERE 3 FHD ¹
+http://forceie.com:25461/force112179/2179force11/36
+#EXTINF:-1,PREMIERE 3 SD ¹
+http://forceie.com:25461/force112179/2179force11/228
+#EXTINF:-1,PREMIERE 4 FHD ¹
+http://forceie.com:25461/force112179/2179force11/37
+#EXTINF:-1,PREMIERE 4 SD ¹
+http://forceie.com:25461/force112179/2179force11/208
+#EXTINF:-1,PREMIERE 5 SD ¹
+http://forceie.com:25461/force112179/2179force11/230
+#EXTINF:-1,PREMIERE 6 SD ¹
+http://forceie.com:25461/force112179/2179force11/231
+#EXTINF:-1,PREMIERE 8 SD ¹
+http://forceie.com:25461/force112179/2179force11/210
+#EXTINF:-1,PREMIERE CLUBES FHD ¹
+http://forceie.com:25461/force112179/2179force11/34
+#EXTINF:-1,PREMIERE CLUBES HD ¹
+http://forceie.com:25461/force112179/2179force11/327
+#EXTINF:-1,PREMIERE CLUBES SD ¹
+http://forceie.com:25461/force112179/2179force11/302
+#EXTINF:-1,PREMIERE 5 FHD ¹
+http://forceie.com:25461/force112179/2179force11/62
+#EXTINF:-1,PREMIERE 6 FHD ¹
+http://forceie.com:25461/force112179/2179force11/63
+#EXTINF:-1,PREMIERE 7 FHD ¹
+http://forceie.com:25461/force112179/2179force11/76
+#EXTINF:-1,PREMIERE 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/329
+#EXTINF:-1,PREMIERE 3 HD ¹
+http://forceie.com:25461/force112179/2179force11/330
+#EXTINF:-1,PREMIERE 4 HD ¹
+http://forceie.com:25461/force112179/2179force11/328
+#EXTINF:-1,PREMIERE 5 HD ¹
+http://forceie.com:25461/force112179/2179force11/331
+#EXTINF:-1,PREMIERE 6 HD ¹
+http://forceie.com:25461/force112179/2179force11/332
+#EXTINF:-1,PREMIERE 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/1125
+#EXTINF:-1,PREMIERE 2 HD ²
+http://forceie.com:25461/force112179/2179force11/1126
+#EXTINF:-1,PREMIERE 2 SD ²
+http://forceie.com:25461/force112179/2179force11/1127
+#EXTINF:-1,PREMIERE 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/229
+#EXTINF:-1,PREMIERE 3 FHD ²
+http://forceie.com:25461/force112179/2179force11/1338
+#EXTINF:-1,PREMIERE 3 HD ²
+http://forceie.com:25461/force112179/2179force11/1413
+#EXTINF:-1,PREMIERE 3 SD ²
+http://forceie.com:25461/force112179/2179force11/1129
+#EXTINF:-1,PREMIERE 4 FHD ²
+http://forceie.com:25461/force112179/2179force11/1130
+#EXTINF:-1,PREMIERE 4 HD ²
+http://forceie.com:25461/force112179/2179force11/1132
+#EXTINF:-1,PREMIERE 4 SD ²
+http://forceie.com:25461/force112179/2179force11/1133
+#EXTINF:-1,PREMIERE 5 FHD ²
+http://forceie.com:25461/force112179/2179force11/1134
+#EXTINF:-1,PREMIERE 5 HD ²
+http://forceie.com:25461/force112179/2179force11/1135
+#EXTINF:-1,PREMIERE 5 SD ²
+http://forceie.com:25461/force112179/2179force11/1136
+#EXTINF:-1,PREMIERE 6 FHD ²
+http://forceie.com:25461/force112179/2179force11/1137
+#EXTINF:-1,PREMIERE 6 HD ²
+http://forceie.com:25461/force112179/2179force11/1138
+#EXTINF:-1,PREMIERE 6 SD ²
+http://forceie.com:25461/force112179/2179force11/1139
+#EXTINF:-1,PREMIERE 7 HD ²
+http://forceie.com:25461/force112179/2179force11/1140
+#EXTINF:-1,PREMIERE 7 SD ²
+http://forceie.com:25461/force112179/2179force11/1141
+#EXTINF:-1,PREMIERE CLUBES FHD ²
+http://forceie.com:25461/force112179/2179force11/1339
+#EXTINF:-1,PREMIERE CLUBES HD ²
+http://forceie.com:25461/force112179/2179force11/1143
+#EXTINF:-1,PREMIERE CLUBES SD ²
+http://forceie.com:25461/force112179/2179force11/1144
+#EXTINF:-1,PRIME BOX SD ¹
+http://forceie.com:25461/force112179/2179force11/176
+#EXTINF:-1,RECORD BAHIA SD ²
+http://forceie.com:25461/force112179/2179force11/1326
+#EXTINF:-1,RECORD BRASILIA HD ²
+http://forceie.com:25461/force112179/2179force11/1322
+#EXTINF:-1,RECORD BRASILIA SD ²
+http://forceie.com:25461/force112179/2179force11/1325
+#EXTINF:-1,RECORD FHD ²
+http://forceie.com:25461/force112179/2179force11/1321
+#EXTINF:-1,RECORD FHD ¹
+http://forceie.com:25461/force112179/2179force11/39
+#EXTINF:-1,RECORD GOIAS SD ²
+http://forceie.com:25461/force112179/2179force11/1331
+#EXTINF:-1,RECORD BAHIA HD ²
+http://forceie.com:25461/force112179/2179force11/1323
+#EXTINF:-1,RECORD HD ¹
+http://forceie.com:25461/force112179/2179force11/334
+#EXTINF:-1,RECORD MINAS SD ²
+http://forceie.com:25461/force112179/2179force11/1327
+#EXTINF:-1,RECORD NEWS FHD ¹
+http://forceie.com:25461/force112179/2179force11/40
+#EXTINF:-1,RECORD NEWS HD ²
+http://forceie.com:25461/force112179/2179force11/1319
+#EXTINF:-1,RECORD NEWS SD ²
+http://forceie.com:25461/force112179/2179force11/1324
+#EXTINF:-1,RECORD NEWS SD ¹
+http://forceie.com:25461/force112179/2179force11/296
+#EXTINF:-1,RECORD PARANA HD ¹
+http://forceie.com:25461/force112179/2179force11/397
+#EXTINF:-1,RECORD RJ HD ²
+http://forceie.com:25461/force112179/2179force11/1318
+#EXTINF:-1,RECORD RJ SD ²
+http://forceie.com:25461/force112179/2179force11/1328
+#EXTINF:-1,RECORD RJ HD ¹
+http://forceie.com:25461/force112179/2179force11/410
+#EXTINF:-1,RECORD MINAS HD ²
+http://forceie.com:25461/force112179/2179force11/1151
+#EXTINF:-1,RECORD RS HD ²
+http://forceie.com:25461/force112179/2179force11/1317
+#EXTINF:-1,RECORD RS ²
+http://forceie.com:25461/force112179/2179force11/1329
+#EXTINF:-1,RECORD SP HD ²
+http://forceie.com:25461/force112179/2179force11/1330
+#EXTINF:-1,RECORD SP SD ²
+http://forceie.com:25461/force112179/2179force11/1316
+#EXTINF:-1,RECORD SP SD ¹
+http://forceie.com:25461/force112179/2179force11/283
+#EXTINF:-1,RED BULL TV  FHD ¹
+http://forceie.com:25461/force112179/2179force11/64
+#EXTINF:-1,REDE GENESIS HD ²
+http://forceie.com:25461/force112179/2179force11/1152
+#EXTINF:-1,REDE GOSPEL FHD ¹
+http://forceie.com:25461/force112179/2179force11/98
+#EXTINF:-1,REDE GOSPEL SD ¹
+http://forceie.com:25461/force112179/2179force11/190
+#EXTINF:-1,REDE PAI ETERNO SD ²
+http://forceie.com:25461/force112179/2179force11/1155
+#EXTINF:-1,REDE TV FHD ²
+http://forceie.com:25461/force112179/2179force11/1341
+#EXTINF:-1,REDE TV FHD ¹
+http://forceie.com:25461/force112179/2179force11/107
+#EXTINF:-1,REDE TV HD ²
+http://forceie.com:25461/force112179/2179force11/1158
+#EXTINF:-1,REDE TV HD ¹
+http://forceie.com:25461/force112179/2179force11/409
+#EXTINF:-1,REDE TV SD ²
+http://forceie.com:25461/force112179/2179force11/1364
+#EXTINF:-1,REDE TV SD ¹
+http://forceie.com:25461/force112179/2179force11/157
+#EXTINF:-1,REDE VIDA SD ²
+http://forceie.com:25461/force112179/2179force11/1365
+#EXTINF:-1,RIT SD ¹
+http://forceie.com:25461/force112179/2179force11/215
+#EXTINF:-1,Sandusky - Ohio - Cedar Point Park 03
+http://forceie.com:25461/force112179/2179force11/1513
+#EXTINF:-1,SBN SD ¹
+http://forceie.com:25461/force112179/2179force11/244
+#EXTINF:-1,SBT HD ²
+http://forceie.com:25461/force112179/2179force11/1366
+#EXTINF:-1,SBT PARANA SD ¹
+http://forceie.com:25461/force112179/2179force11/218
+#EXTINF:-1,SBT SD ²
+http://forceie.com:25461/force112179/2179force11/1419
+#EXTINF:-1,SBT SP FHD ²
+http://forceie.com:25461/force112179/2179force11/1231
+#EXTINF:-1,SBT SP FHD ¹
+http://forceie.com:25461/force112179/2179force11/65
+#EXTINF:-1,SBT SP HD ¹
+http://forceie.com:25461/force112179/2179force11/335
+#EXTINF:-1,SBT SP SD ¹
+http://forceie.com:25461/force112179/2179force11/166
+#EXTINF:-1,SHOPTIME HD ¹
+http://forceie.com:25461/force112179/2179force11/364
+#EXTINF:-1,SHOPTIME SD ¹
+http://forceie.com:25461/force112179/2179force11/284
+#EXTINF:-1,SIC SD ¹
+http://forceie.com:25461/force112179/2179force11/211
+#EXTINF:-1,Sjoberg - Vasterbottens Lan
+http://forceie.com:25461/force112179/2179force11/1520
+#EXTINF:-1,Smithsonian Panda Cam 1
+http://forceie.com:25461/force112179/2179force11/1521
+#EXTINF:-1,Smithsonian Panda Cam 2
+http://forceie.com:25461/force112179/2179force11/1522
+#EXTINF:-1,SPACE FHD ²
+http://forceie.com:25461/force112179/2179force11/1235
+#EXTINF:-1,SPACE FHD ¹
+http://forceie.com:25461/force112179/2179force11/32
+#EXTINF:-1,SPACE HD ²
+http://forceie.com:25461/force112179/2179force11/1236
+#EXTINF:-1,SPACE HD ¹
+http://forceie.com:25461/force112179/2179force11/403
+#EXTINF:-1,SPACE SD ¹
+http://forceie.com:25461/force112179/2179force11/224
+#EXTINF:-1,SPACE SD ²
+http://forceie.com:25461/force112179/2179force11/1237
+#EXTINF:-1,SPORT 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/338
+#EXTINF:-1,SPORTV 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/1238
+#EXTINF:-1,SPORTV 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/33
+#EXTINF:-1,SPORTV 2 HD ²
+http://forceie.com:25461/force112179/2179force11/1239
+#EXTINF:-1,SPORTV 2 SD ²
+http://forceie.com:25461/force112179/2179force11/1240
+#EXTINF:-1,SPORTV 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/167
+#EXTINF:-1,SPORTV 3 FHD ²
+http://forceie.com:25461/force112179/2179force11/1241
+#EXTINF:-1,SPORTV 3 HD ²
+http://forceie.com:25461/force112179/2179force11/1242
+#EXTINF:-1,SPORTV 3 HD ¹
+http://forceie.com:25461/force112179/2179force11/339
+#EXTINF:-1,SPORTV 3 SD ²
+http://forceie.com:25461/force112179/2179force11/1243
+#EXTINF:-1,SPORTV 3 SD ¹
+http://forceie.com:25461/force112179/2179force11/187
+#EXTINF:-1,SPORTV FHD  ¹
+http://forceie.com:25461/force112179/2179force11/31
+#EXTINF:-1,SPORTV FHD ²
+http://forceie.com:25461/force112179/2179force11/1244
+#EXTINF:-1,SPORTV HD ²
+http://forceie.com:25461/force112179/2179force11/1245
+#EXTINF:-1,SPORTV HD ¹
+http://forceie.com:25461/force112179/2179force11/337
+#EXTINF:-1,SPORTV SD ²
+http://forceie.com:25461/force112179/2179force11/1246
+#EXTINF:-1,SPORTV SD ¹
+http://forceie.com:25461/force112179/2179force11/290
+#EXTINF:-1,Staten Island - New York
+http://forceie.com:25461/force112179/2179force11/1523
+#EXTINF:-1,STUDIO UNIVERSAL FHD ²
+http://forceie.com:25461/force112179/2179force11/1247
+#EXTINF:-1,STUDIO UNIVERSAL HD ²
+http://forceie.com:25461/force112179/2179force11/1248
+#EXTINF:-1,STUDIO UNIVERSAL SD ²
+http://forceie.com:25461/force112179/2179force11/1249
+#EXTINF:-1,STUDIO UNIVERSAL SD ¹
+http://forceie.com:25461/force112179/2179force11/168
+#EXTINF:-1,SYFY FHD ²
+http://forceie.com:25461/force112179/2179force11/1250
+#EXTINF:-1,SYFY FHD ¹
+http://forceie.com:25461/force112179/2179force11/68
+#EXTINF:-1,SYFY HD ²
+http://forceie.com:25461/force112179/2179force11/1378
+#EXTINF:-1,SYFY HD ¹
+http://forceie.com:25461/force112179/2179force11/391
+#EXTINF:-1,SYFY SD ¹
+http://forceie.com:25461/force112179/2179force11/213
+#EXTINF:-1,SYFY SD ²
+http://forceie.com:25461/force112179/2179force11/1251
+#EXTINF:-1,TBS FHD  ¹
+http://forceie.com:25461/force112179/2179force11/69
+#EXTINF:-1,TBS HD ¹
+http://forceie.com:25461/force112179/2179force11/340
+#EXTINF:-1,TBS SD ¹
+http://forceie.com:25461/force112179/2179force11/214
+#EXTINF:-1,TCM HD ²
+http://forceie.com:25461/force112179/2179force11/1361
+#EXTINF:-1,TCM SD ²
+http://forceie.com:25461/force112179/2179force11/1253
+#EXTINF:-1,TCM SD ¹
+http://forceie.com:25461/force112179/2179force11/172
+#EXTINF:-1,TELECINE ACTION FHD ²
+http://forceie.com:25461/force112179/2179force11/1340
+#EXTINF:-1,TELECINE ACTION FHD ¹
+http://forceie.com:25461/force112179/2179force11/30
+#EXTINF:-1,TELECINE ACTION HD ²
+http://forceie.com:25461/force112179/2179force11/1254
+#EXTINF:-1,TELECINE ACTION HD ¹
+http://forceie.com:25461/force112179/2179force11/341
+#EXTINF:-1,TELECINE ACTION SD ²
+http://forceie.com:25461/force112179/2179force11/1255
+#EXTINF:-1,TELECINE ACTION SD ¹
+http://forceie.com:25461/force112179/2179force11/173
+#EXTINF:-1,TELECINE CULT FHD ²
+http://forceie.com:25461/force112179/2179force11/1257
+#EXTINF:-1,TELECINE CULT FHD ¹
+http://forceie.com:25461/force112179/2179force11/104
+#EXTINF:-1,TELECINE CULT HD ²
+http://forceie.com:25461/force112179/2179force11/1258
+#EXTINF:-1,TELECINE CULT HD ¹
+http://forceie.com:25461/force112179/2179force11/390
+#EXTINF:-1,TELECINE CULT SD ²
+http://forceie.com:25461/force112179/2179force11/1256
+#EXTINF:-1,TELECINE CULT SD ¹
+http://forceie.com:25461/force112179/2179force11/188
+#EXTINF:-1,TELECINE FUN FHD ²
+http://forceie.com:25461/force112179/2179force11/1259
+#EXTINF:-1,TELECINE FUN FHD ¹
+http://forceie.com:25461/force112179/2179force11/29
+#EXTINF:-1,TELECINE FUN HD ²
+http://forceie.com:25461/force112179/2179force11/1260
+#EXTINF:-1,TELECINE FUN HD ¹
+http://forceie.com:25461/force112179/2179force11/342
+#EXTINF:-1,TELECINE FUN SD ²
+http://forceie.com:25461/force112179/2179force11/1261
+#EXTINF:-1,TELECINE FUN SD ¹
+http://forceie.com:25461/force112179/2179force11/189
+#EXTINF:-1,TELECINE PIPOCA  FHD ¹
+http://forceie.com:25461/force112179/2179force11/28
+#EXTINF:-1,TELECINE PIPOCA  SD ¹
+http://forceie.com:25461/force112179/2179force11/234
+#EXTINF:-1,TELECINE PIPOCA FHD ²
+http://forceie.com:25461/force112179/2179force11/1262
+#EXTINF:-1,TELECINE PIPOCA HD ²
+http://forceie.com:25461/force112179/2179force11/1263
+#EXTINF:-1,TELECINE PIPOCA HD ¹
+http://forceie.com:25461/force112179/2179force11/343
+#EXTINF:-1,TELECINE PIPOCA SD ²
+http://forceie.com:25461/force112179/2179force11/1264
+#EXTINF:-1,TELECINE PREMIUM FHD ²
+http://forceie.com:25461/force112179/2179force11/1265
+#EXTINF:-1,TELECINE PREMIUM FHD ¹
+http://forceie.com:25461/force112179/2179force11/27
+#EXTINF:-1,TELECINE PREMIUM HD ²
+http://forceie.com:25461/force112179/2179force11/1266
+#EXTINF:-1,TELECINE PREMIUM HD ¹
+http://forceie.com:25461/force112179/2179force11/344
+#EXTINF:-1,TELECINE PREMIUM SD ²
+http://forceie.com:25461/force112179/2179force11/1267
+#EXTINF:-1,TELECINE PREMIUM SD ¹
+http://forceie.com:25461/force112179/2179force11/233
+#EXTINF:-1,TELECINE TOUCH FHD ²
+http://forceie.com:25461/force112179/2179force11/1268
+#EXTINF:-1,TELECINE TOUCH FHD ¹
+http://forceie.com:25461/force112179/2179force11/26
+#EXTINF:-1,TELECINE TOUCH HD ²
+http://forceie.com:25461/force112179/2179force11/1377
+#EXTINF:-1,TELECINE TOUCH HD ¹
+http://forceie.com:25461/force112179/2179force11/345
+#EXTINF:-1,TELECINE TOUCH SD ²
+http://forceie.com:25461/force112179/2179force11/1270
+#EXTINF:-1,TELECINE TOUCH SD ¹
+http://forceie.com:25461/force112179/2179force11/232
+#EXTINF:-1,TLC FHD ¹
+http://forceie.com:25461/force112179/2179force11/82
+#EXTINF:-1,TLC HD ¹
+http://forceie.com:25461/force112179/2179force11/346
+#EXTINF:-1,TLC SD ²
+http://forceie.com:25461/force112179/2179force11/1272
+#EXTINF:-1,TLC SD ¹
+http://forceie.com:25461/force112179/2179force11/285
+#EXTINF:-1,TNT SPORTS SD ²
+http://forceie.com:25461/force112179/2179force11/1273
+#EXTINF:-1,TNT SPORTS FHD ¹
+http://forceie.com:25461/force112179/2179force11/83
+#EXTINF:-1,TNT SPORTS HD ²
+http://forceie.com:25461/force112179/2179force11/1274
+#EXTINF:-1,TNT SPORTS HD ¹
+http://forceie.com:25461/force112179/2179force11/381
+#EXTINF:-1,TNT SPORTS SD ¹
+http://forceie.com:25461/force112179/2179force11/272
+#EXTINF:-1,TNT SERIES FHD ²
+http://forceie.com:25461/force112179/2179force11/1275
+#EXTINF:-1,TNT SERIES FHD ¹
+http://forceie.com:25461/force112179/2179force11/25
+#EXTINF:-1,TNT SERIES HD ²
+http://forceie.com:25461/force112179/2179force11/1276
+#EXTINF:-1,TNT SERIES HD ¹
+http://forceie.com:25461/force112179/2179force11/347
+#EXTINF:-1,TNT SERIES SD ¹
+http://forceie.com:25461/force112179/2179force11/223
+#EXTINF:-1,TNT SERIES SD ²
+http://forceie.com:25461/force112179/2179force11/1277
+#EXTINF:-1,TOONCAST FHD ²
+http://forceie.com:25461/force112179/2179force11/1278
+#EXTINF:-1,TOONCAST HD ²
+http://forceie.com:25461/force112179/2179force11/1359
+#EXTINF:-1,TOONCAST HD ¹
+http://forceie.com:25461/force112179/2179force11/389
+#EXTINF:-1,TOONCAST SD ²
+http://forceie.com:25461/force112179/2179force11/1279
+#EXTINF:-1,TOONCAST SD ¹
+http://forceie.com:25461/force112179/2179force11/217
+#EXTINF:-1,TRAVEL BOX FHD ¹
+http://forceie.com:25461/force112179/2179force11/91
+#EXTINF:-1,TRUTV ²
+http://forceie.com:25461/force112179/2179force11/1280
+#EXTINF:-1,TV APARECIDA SD ²
+http://forceie.com:25461/force112179/2179force11/1414
+#EXTINF:-1,TV APARECIDA SD ¹
+http://forceie.com:25461/force112179/2179force11/305
+#EXTINF:-1,TV CULTURA FHD ²
+http://forceie.com:25461/force112179/2179force11/1356
+#EXTINF:-1,TV CULTURA FHD ¹
+http://forceie.com:25461/force112179/2179force11/70
+#EXTINF:-1,TV CULTURA HD ¹
+http://forceie.com:25461/force112179/2179force11/348
+#EXTINF:-1,TV CULTURA SD ¹
+http://forceie.com:25461/force112179/2179force11/245
+#EXTINF:-1,TV EVANGELIZAR SD ²
+http://forceie.com:25461/force112179/2179force11/1285
+#EXTINF:-1,TV GAZETA HD ¹
+http://forceie.com:25461/force112179/2179force11/349
+#EXTINF:-1,TV GAZETA SD ²
+http://forceie.com:25461/force112179/2179force11/1355
+#EXTINF:-1,TV GAZETA SP FHD ¹
+http://forceie.com:25461/force112179/2179force11/100
+#EXTINF:-1,TV JUSTIÇA SD ¹
+http://forceie.com:25461/force112179/2179force11/286
+#EXTINF:-1,TV NOVO TEMPO FHD ¹
+http://forceie.com:25461/force112179/2179force11/92
+#EXTINF:-1,TV NOVO TEMPO HD ²
+http://forceie.com:25461/force112179/2179force11/1415
+#EXTINF:-1,TV NOVO TEMPO SD ¹
+http://forceie.com:25461/force112179/2179force11/174
+#EXTINF:-1,TV RA TIM BUM FHD ²
+http://forceie.com:25461/force112179/2179force11/1290
+#EXTINF:-1,TV RA TIM BUM HD ²
+http://forceie.com:25461/force112179/2179force11/1353
+#EXTINF:-1,TV RA TIM BUM SD ²
+http://forceie.com:25461/force112179/2179force11/1291
+#EXTINF:-1,TV RATIM BUM FHD ¹
+http://forceie.com:25461/force112179/2179force11/93
+#EXTINF:-1,TV RATIM BUM HD ¹
+http://forceie.com:25461/force112179/2179force11/388
+#EXTINF:-1,TV RATIM BUM SD ¹
+http://forceie.com:25461/force112179/2179force11/287
+#EXTINF:-1,UNIVERSAL TV HD ²
+http://forceie.com:25461/force112179/2179force11/1294
+#EXTINF:-1,UNIVERSAL TV FHD ²
+http://forceie.com:25461/force112179/2179force11/1296
+#EXTINF:-1,UNIVERSAL TV SD ²
+http://forceie.com:25461/force112179/2179force11/1295
+#EXTINF:-1,VH1 FHD ¹
+http://forceie.com:25461/force112179/2179force11/72
+#EXTINF:-1,VH1 SD ¹
+http://forceie.com:25461/force112179/2179force11/292
+#EXTINF:-1,VIVA FHD ²
+http://forceie.com:25461/force112179/2179force11/1298
+#EXTINF:-1,VIVA FHD ¹
+http://forceie.com:25461/force112179/2179force11/84
+#EXTINF:-1,VIVA HD ²
+http://forceie.com:25461/force112179/2179force11/1299
+#EXTINF:-1,VIVA SD ²
+http://forceie.com:25461/force112179/2179force11/1300
+#EXTINF:-1,VIVA SD ¹
+http://forceie.com:25461/force112179/2179force11/289
+#EXTINF:-1,WARNER CHANNEL FHD ²
+http://forceie.com:25461/force112179/2179force11/1302
+#EXTINF:-1,WARNER CHANNEL FHD ¹
+http://forceie.com:25461/force112179/2179force11/24
+#EXTINF:-1,WARNER CHANNEL HD ²
+http://forceie.com:25461/force112179/2179force11/1376
+#EXTINF:-1,WARNER CHANNEL HD ¹
+http://forceie.com:25461/force112179/2179force11/353
+#EXTINF:-1,WARNER CHANNEL SD ²
+http://forceie.com:25461/force112179/2179force11/1301
+#EXTINF:-1,WOHOO FHD ¹
+http://forceie.com:25461/force112179/2179force11/85
+#EXTINF:-1,WOOHOO FHD  ²
+http://forceie.com:25461/force112179/2179force11/1304
+#EXTINF:-1,WOOHOO HD ²
+http://forceie.com:25461/force112179/2179force11/1351
+#EXTINF:-1,WOOHOO SD ²
+http://forceie.com:25461/force112179/2179force11/1303
+#EXTINF:-1,WOOHOO SD ¹
+http://forceie.com:25461/force112179/2179force11/295
+#EXTINF:-1,ZOOMOO FHD ¹
+http://forceie.com:25461/force112179/2179force11/90
+#EXTINF:-1,ZOOMOO HD ¹
+http://forceie.com:25461/force112179/2179force11/387
+#EXTINF:-1,CINE SKY 1 
+http://forceie.com:25461/force112179/2179force11/27304
+#EXTINF:-1,CINE SKY 2
+http://forceie.com:25461/force112179/2179force11/27305
+#EXTINF:-1,TV NOVA MANCHETE ³
+http://forceie.com:25461/force112179/2179force11/30458
+#EXTINF:-1,REDE PREMIUM TV ³
+http://forceie.com:25461/force112179/2179force11/30460
+#EXTINF:-1,GOSPEL CARTOON ³
+http://forceie.com:25461/force112179/2179force11/30463
+#EXTINF:-1,CINE TRIANON TV ³
+http://forceie.com:25461/force112179/2179force11/30464
+#EXTINF:-1,GOSPEL MOVIES TELEVISION 2 ³
+http://forceie.com:25461/force112179/2179force11/30466
+#EXTINF:-1,GOSPEL MOVIES TELEVISION ³
+http://forceie.com:25461/force112179/2179force11/30467
+#EXTINF:-1,Piranha Cam
+http://forceie.com:25461/force112179/2179force11/30612
+#EXTINF:-1,HBO LEG. HD ¹
+http://forceie.com:25461/force112179/2179force11/30894
+#EXTINF:-1,STAR HITS 2 SD ¹
+http://forceie.com:25461/force112179/2179force11/30892
+#EXTINF:-1,HBO SIGNATURA LEG. HD ¹
+http://forceie.com:25461/force112179/2179force11/30895
+#EXTINF:-1,HBO LEG. FHD ¹
+http://forceie.com:25461/force112179/2179force11/30896
+#EXTINF:-1,TELECINE PREMIUM LEG.HD ¹
+http://forceie.com:25461/force112179/2179force11/30898
+#EXTINF:-1,TELECINE PREMIUM  FHD LEG ¹
+http://forceie.com:25461/force112179/2179force11/30899
+#EXTINF:-1,STAR HITS LEG. HD ¹
+http://forceie.com:25461/force112179/2179force11/30900
+#EXTINF:-1,TELECINE CULT LEG. HD ¹
+http://forceie.com:25461/force112179/2179force11/30901
+#EXTINF:-1,TELECINE CULT LEG. FHD ¹
+http://forceie.com:25461/force112179/2179force11/30902
+#EXTINF:-1,DISCOVERY THEATER LEG. FHD ¹
+http://forceie.com:25461/force112179/2179force11/30903
+#EXTINF:-1,DISCOVERY THEATER LEG. HD ¹
+http://forceie.com:25461/force112179/2179force11/30904
+#EXTINF:-1,GLOBO ACRE HD ²
+http://forceie.com:25461/force112179/2179force11/30905
+#EXTINF:-1,GLOBO BOA VISTA HD ²
+http://forceie.com:25461/force112179/2179force11/30906
+#EXTINF:-1,GLOBO BRASILIA HD ²
+http://forceie.com:25461/force112179/2179force11/30907
+#EXTINF:-1,GLOBO BRASILIA SD ²
+http://forceie.com:25461/force112179/2179force11/30908
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD ²
+http://forceie.com:25461/force112179/2179force11/30909
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD ²
+http://forceie.com:25461/force112179/2179force11/30911
+#EXTINF:-1,GLOBO FLORIANOPOLIS SD ²
+http://forceie.com:25461/force112179/2179force11/30912
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD ²
+http://forceie.com:25461/force112179/2179force11/30913
+#EXTINF:-1,GLOBO MINAS HD ²
+http://forceie.com:25461/force112179/2179force11/30914
+#EXTINF:-1,GLOBO MINAS SD ²
+http://forceie.com:25461/force112179/2179force11/30915
+#EXTINF:-1,GLOBO NORDESTE SD ²
+http://forceie.com:25461/force112179/2179force11/30917
+#EXTINF:-1,GLOBO NORDESTE HD ²
+http://forceie.com:25461/force112179/2179force11/30918
+#EXTINF:-1,GLOBO NSC BLUMENAU HD ²
+http://forceie.com:25461/force112179/2179force11/30920
+#EXTINF:-1,GLOBO REDE AMAZÔNICA SD ²
+http://forceie.com:25461/force112179/2179force11/30924
+#EXTINF:-1,GLOBO RPC CURITIBA FHD ²
+http://forceie.com:25461/force112179/2179force11/30925
+#EXTINF:-1,GLOBO RPC CURITIBA HD ²
+http://forceie.com:25461/force112179/2179force11/30926
+#EXTINF:-1,GLOBO TRIBUNA SANTOS SD ²
+http://forceie.com:25461/force112179/2179force11/30927
+#EXTINF:-1,GLOBO BAHIA FHD ²
+http://forceie.com:25461/force112179/2179force11/30930
+#EXTINF:-1,GLOBO BAHIA HD ²
+http://forceie.com:25461/force112179/2179force11/30931
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA FHD ²
+http://forceie.com:25461/force112179/2179force11/30932
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD ²
+http://forceie.com:25461/force112179/2179force11/30933
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD ²
+http://forceie.com:25461/force112179/2179force11/30934
+#EXTINF:-1,GLOBO TV LIBERAL BELEM FHD ²
+http://forceie.com:25461/force112179/2179force11/30935
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD ²
+http://forceie.com:25461/force112179/2179force11/30936
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD ²
+http://forceie.com:25461/force112179/2179force11/30937
+#EXTINF:-1,GLOBO TV MIRANTE FHD ² 
+http://forceie.com:25461/force112179/2179force11/30938
+#EXTINF:-1,GLOBO TV MIRANTE HD ² 
+http://forceie.com:25461/force112179/2179force11/30939
+#EXTINF:-1,GLOBO TV MIRANTE SD ²
+http://forceie.com:25461/force112179/2179force11/30940
+#EXTINF:-1,GLOBO TV MORENA FHD ²
+http://forceie.com:25461/force112179/2179force11/30941
+#EXTINF:-1,CANAL DO BOI SD ²
+http://forceie.com:25461/force112179/2179force11/855
+#EXTINF:-1,TV GIDEÕES ³
+http://forceie.com:25461/force112179/2179force11/31562
+#EXTINF:-1,CINE SKY 5
+http://forceie.com:25461/force112179/2179force11/31593
+#EXTINF:-1,Itália - RAI HD ¹
+http://forceie.com:25461/force112179/2179force11/31594
+#EXTINF:-1,CINE SKY 3
+http://forceie.com:25461/force112179/2179force11/32043
+#EXTINF:-1,CINE SKY 4
+http://forceie.com:25461/force112179/2179force11/32044
+#EXTINF:-1,CINE SKY 6
+http://forceie.com:25461/force112179/2179force11/32045
+#EXTINF:-1,CINE SKY 7
+http://forceie.com:25461/force112179/2179force11/32046
+#EXTINF:-1,Japão - NHK WORLD HD ¹
+http://forceie.com:25461/force112179/2179force11/32047
+#EXTINF:-1,Japão - NHK WORLD SD  ¹
+http://forceie.com:25461/force112179/2179force11/32048
+#EXTINF:-1,Portugal - Sobrenatural TV ³
+http://forceie.com:25461/force112179/2179force11/32050
+#EXTINF:-1, Portugal - PORTO CANAL ³
+http://forceie.com:25461/force112179/2179force11/32051
+#EXTINF:-1,Portugal - Kuriakos Tv ³
+http://forceie.com:25461/force112179/2179force11/32052
+#EXTINF:-1,Alemanha - 1-2-3 TV ³
+http://forceie.com:25461/force112179/2179force11/32055
+#EXTINF:-1,Alemanha - Baden TV ³
+http://forceie.com:25461/force112179/2179force11/32056
+#EXTINF:-1,Alemanha - Telebasel ³
+http://forceie.com:25461/force112179/2179force11/32057
+#EXTINF:-1,Polônia - Kontra TV ³
+http://forceie.com:25461/force112179/2179force11/32059
+#EXTINF:-1,Israel - Hidabroot TV ³
+http://forceie.com:25461/force112179/2179force11/32060
+#EXTINF:-1,Itália - Canale 7 ³
+http://forceie.com:25461/force112179/2179force11/32061
+#EXTINF:-1,Russia - Mir 24 ³
+http://forceie.com:25461/force112179/2179force11/32063
+#EXTINF:-1,México - Canal 10 ³
+http://forceie.com:25461/force112179/2179force11/32064
+#EXTINF:-1,Argentina - Canal 26 ³
+http://forceie.com:25461/force112179/2179force11/32065
+#EXTINF:-1,México - Telemax ³
+http://forceie.com:25461/force112179/2179force11/32066
+#EXTINF:-1,Rede Minas ³
+http://forceie.com:25461/force112179/2179force11/32077
+#EXTINF:-1,DW ESPANHOL ³
+http://forceie.com:25461/force112179/2179force11/32333
+#EXTINF:-1,Alemanha - DW INGLÊS ³
+http://forceie.com:25461/force112179/2179force11/32334
+#EXTINF:-1,GLOBO CRICIÚMA HD ²    
+http://forceie.com:25461/force112179/2179force11/32351
+#EXTINF:-1,GLOBO NSC CHAPECO HD ²
+http://forceie.com:25461/force112179/2179force11/32352
+#EXTINF:-1,SBT FHD ²
+http://forceie.com:25461/force112179/2179force11/32385
+#EXTINF:-1,TBS HD ²
+http://forceie.com:25461/force112179/2179force11/1363
+#EXTINF:-1,TBS SD ²
+http://forceie.com:25461/force112179/2179force11/1252
+#EXTINF:-1,PLAYKIDS HD ²
+http://forceie.com:25461/force112179/2179force11/1123
+#EXTINF:-1,ZOOMOO SD ²
+http://forceie.com:25461/force112179/2179force11/1314
+#EXTINF:-1,ARTE 1 SD ²
+http://forceie.com:25461/force112179/2179force11/815
+#EXTINF:-1,GLOBO BH SD ¹
+http://forceie.com:25461/force112179/2179force11/33197
+#EXTINF:-1,GLOBO BH HD ¹
+http://forceie.com:25461/force112179/2179force11/33198
+#EXTINF:-1,GLOBO BELEM HD ¹
+http://forceie.com:25461/force112179/2179force11/33201
+#EXTINF:-1,GLOBO CURITIBA HD ¹
+http://forceie.com:25461/force112179/2179force11/33204
+#EXTINF:-1,GLOBO FORTALEZA FHD ¹
+http://forceie.com:25461/force112179/2179force11/33206
+#EXTINF:-1,GLOBO FORTALEZA SD ¹
+http://forceie.com:25461/force112179/2179force11/33207
+#EXTINF:-1,HBO XTREME SD ² 
+http://forceie.com:25461/force112179/2179force11/33208
+#EXTINF:-1,HBO XTREME HD ²
+http://forceie.com:25461/force112179/2179force11/33209
+#EXTINF:-1,HBO XTREME FHD ²
+http://forceie.com:25461/force112179/2179force11/33210
+#EXTINF:-1,HBO XTREME HD ¹
+http://forceie.com:25461/force112179/2179force11/33211
+#EXTINF:-1,HBO MUNDI FHD ²
+http://forceie.com:25461/force112179/2179force11/33212
+#EXTINF:-1,HBO MUNDI HD ²
+http://forceie.com:25461/force112179/2179force11/33213
+#EXTINF:-1,HBO MUNDI SD ²
+http://forceie.com:25461/force112179/2179force11/33214
+#EXTINF:-1,HBO MUNDI LEG. SD ¹
+http://forceie.com:25461/force112179/2179force11/33216
+#EXTINF:-1,HBO MUNDI LEG. HD ¹
+http://forceie.com:25461/force112179/2179force11/33217
+#EXTINF:-1,HBO POP HD ¹   
+http://forceie.com:25461/force112179/2179force11/33218
+#EXTINF:-1,HBO POP SD ²
+http://forceie.com:25461/force112179/2179force11/33219
+#EXTINF:-1,HBO POP FHD ²
+http://forceie.com:25461/force112179/2179force11/33220
+#EXTINF:-1,STAR HITS LEG. SD ¹
+http://forceie.com:25461/force112179/2179force11/33221
+#EXTINF:-1,HBO SIGNATURA LEG. SD ¹
+http://forceie.com:25461/force112179/2179force11/33222
+#EXTINF:-1,HBO+ HD ¹
+http://forceie.com:25461/force112179/2179force11/33224
+#EXTINF:-1,HBO+ HD ²
+http://forceie.com:25461/force112179/2179force11/33226
+#EXTINF:-1,HBO+ SD ²
+http://forceie.com:25461/force112179/2179force11/33227
+#EXTINF:-1,USA - HUNT CHANNEL TV ³
+http://forceie.com:25461/force112179/2179force11/35158
+#EXTINF:-1,NINHO DE ÁGUIA ³
+http://forceie.com:25461/force112179/2179force11/35159
+#EXTINF:-1,EarthCamTV
+http://forceie.com:25461/force112179/2179force11/35167
+#EXTINF:-1,GIRAFA - SAN DIEGO ZOO
+http://forceie.com:25461/force112179/2179force11/35168
+#EXTINF:-1,PINGUIM - SAN DIEGO ZOO
+http://forceie.com:25461/force112179/2179force11/35169
+#EXTINF:-1,Soči lake – Slovenia
+http://forceie.com:25461/force112179/2179force11/35174
+#EXTINF:-1,Zakynthos natural park Marathia
+http://forceie.com:25461/force112179/2179force11/35175
+#EXTINF:-1,Bethany Beach Boardwalk North
+http://forceie.com:25461/force112179/2179force11/35185
+#EXTINF:-1,Virginia Beach Boardwalk 31st
+http://forceie.com:25461/force112179/2179force11/35186
+#EXTINF:-1,Pinguins - Edinburgh Zoo
+http://forceie.com:25461/force112179/2179force11/35190
+#EXTINF:-1,Finse Railroad Station
+http://forceie.com:25461/force112179/2179force11/35195
+#EXTINF:-1,Dawlish: Marine Parade Webcam
+http://forceie.com:25461/force112179/2179force11/35197
+#EXTINF:-1,RipTydz Oceanfront Grille & Rooftop Bar
+http://forceie.com:25461/force112179/2179force11/35198
+#EXTINF:-1,Miami Beach: South Beach
+http://forceie.com:25461/force112179/2179force11/35199
+#EXTINF:-1,Scharbeutz: Bay of Lubeck
+http://forceie.com:25461/force112179/2179force11/35204
+#EXTINF:-1,Santuario of Fatima
+http://forceie.com:25461/force112179/2179force11/35207
+#EXTINF:-1,Eiffel Tower
+http://forceie.com:25461/force112179/2179force11/35211
+#EXTINF:-1,Aquapark Gino Paradise - Cam 1
+http://forceie.com:25461/force112179/2179force11/35219
+#EXTINF:-1,Aquapark Gino Paradise - Cam 2
+http://forceie.com:25461/force112179/2179force11/35220
+#EXTINF:-1,VH1 SD ²
+http://forceie.com:25461/force112179/2179force11/1297
+#EXTINF:-1,1HD Music ³
+http://forceie.com:25461/force112179/2179force11/35414
+#EXTINF:-1,Music Top ³
+http://forceie.com:25461/force112179/2179force11/35417
+#EXTINF:-1,Gospel Music ³
+http://forceie.com:25461/force112179/2179force11/35420
+#EXTINF:-1,Rock TV ³
+http://forceie.com:25461/force112179/2179force11/35423
+#EXTINF:-1,Retro Plus ³
+http://forceie.com:25461/force112179/2179force11/35427
+#EXTINF:-1,California Music Channel ³
+http://forceie.com:25461/force112179/2179force11/35441
+#EXTINF:-1,Country Music Channel ³
+http://forceie.com:25461/force112179/2179force11/35442
+#EXTINF:-1,Rede Século 21 ³
+http://forceie.com:25461/force112179/2179force11/35471
+#EXTINF:-1,Top Latino TV ³
+http://forceie.com:25461/force112179/2179force11/35472
+#EXTINF:-1,Itália - Esperia TV ³
+http://forceie.com:25461/force112179/2179force11/36094
+#EXTINF:-1,Itália - Icaro TV ³
+http://forceie.com:25461/force112179/2179force11/36097
+#EXTINF:-1,Itália - Italia 2 TV ³
+http://forceie.com:25461/force112179/2179force11/36098
+#EXTINF:-1,Itália - Nove ³
+http://forceie.com:25461/force112179/2179force11/36101
+#EXTINF:-1,Portugal - Kuriakos Cine ³
+http://forceie.com:25461/force112179/2179force11/36104
+#EXTINF:-1,Portugal - Kuriakos Kids ³
+http://forceie.com:25461/force112179/2179force11/36105
+#EXTINF:-1,Portugal - Kuriakos TV2 ³
+http://forceie.com:25461/force112179/2179force11/36106
+#EXTINF:-1,Portugal - Porto Canal 2 ³
+http://forceie.com:25461/force112179/2179force11/36107
+#EXTINF:-1,Japão - CGNTV ³
+http://forceie.com:25461/force112179/2179force11/36112
+#EXTINF:-1,Japão - Japanet Channel DX ³
+http://forceie.com:25461/force112179/2179force11/36114
+#EXTINF:-1,Japão - New Japan Pro Wrestling World ³
+http://forceie.com:25461/force112179/2179force11/36115
+#EXTINF:-1,Japão - Weather News ³
+http://forceie.com:25461/force112179/2179force11/36122
+#EXTINF:-1,USA - 23 ABC ³
+http://forceie.com:25461/force112179/2179force11/36123
+#EXTINF:-1,USA - 3ABN KIDS TV ³
+http://forceie.com:25461/force112179/2179force11/36127
+#EXTINF:-1,USA - 3News Now ³
+http://forceie.com:25461/force112179/2179force11/36129
+#EXTINF:-1,USA - AMG TV ³
+http://forceie.com:25461/force112179/2179force11/36138
+#EXTINF:-1,USA - Bible Explorations ³
+http://forceie.com:25461/force112179/2179force11/36145
+#EXTINF:-1,USA - Bloomberg ³
+http://forceie.com:25461/force112179/2179force11/36147
+#EXTINF:-1,USA - Catholic TV ³
+http://forceie.com:25461/force112179/2179force11/36152
+#EXTINF:-1,USA - Fail Army ³
+http://forceie.com:25461/force112179/2179force11/36159
+#EXTINF:-1,USA - FOX SPORTS HD ³
+http://forceie.com:25461/force112179/2179force11/36161
+#EXTINF:-1,USA - Gospel Truth TV ³
+http://forceie.com:25461/force112179/2179force11/36162
+#EXTINF:-1,USA - Hunt Channel ³
+http://forceie.com:25461/force112179/2179force11/36163
+#EXTINF:-1,Ucrânia - 4 канал ³
+http://forceie.com:25461/force112179/2179force11/36168
+#EXTINF:-1,Russia - 8 Канал ³
+http://forceie.com:25461/force112179/2179force11/36171
+#EXTINF:-1,Alemanha - dorf tv ³
+http://forceie.com:25461/force112179/2179force11/36179
+#EXTINF:-1,China - 香港開電視 ³
+http://forceie.com:25461/force112179/2179force11/36189
+#EXTINF:-1,Times Square Cam 4k
+http://forceie.com:25461/force112179/2179force11/30592
+#EXTINF:-1,CONMEBOL 1 FHD ¹
+http://forceie.com:25461/force112179/2179force11/42426
+#EXTINF:-1,CONMEBOL 2 FHD ¹
+http://forceie.com:25461/force112179/2179force11/42427
+#EXTINF:-1,CONMEBOL 3 FHD ¹
+http://forceie.com:25461/force112179/2179force11/42428
+#EXTINF:-1,CONMEBOL 4 FHD ¹
+http://forceie.com:25461/force112179/2179force11/42429
+#EXTINF:-1,CONMEBOL 1 FHD ²
+http://forceie.com:25461/force112179/2179force11/42430
+#EXTINF:-1,CONMEBOL 2 FHD ²
+http://forceie.com:25461/force112179/2179force11/42431
+#EXTINF:-1,CONMEBOL 3 FHD ²
+http://forceie.com:25461/force112179/2179force11/42432
+#EXTINF:-1,CONMEBOL 4 FHD ²
+http://forceie.com:25461/force112179/2179force11/42433
+#EXTINF:-1,CONMEBOL 1 SD ²
+http://forceie.com:25461/force112179/2179force11/45631
+#EXTINF:-1,CONMEBOL 2 SD ²
+http://forceie.com:25461/force112179/2179force11/45632
+#EXTINF:-1,CONMEBOL 3 SD ²
+http://forceie.com:25461/force112179/2179force11/45633
+#EXTINF:-1,CONMEBOL 4 SD ²
+http://forceie.com:25461/force112179/2179force11/45634
+#EXTINF:-1,CONMEBOL 1 HD ¹
+http://forceie.com:25461/force112179/2179force11/45635
+#EXTINF:-1,CONMEBOL 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/45636
+#EXTINF:-1,CONMEBOL 3 HD ¹
+http://forceie.com:25461/force112179/2179force11/45637
+#EXTINF:-1,CONMEBOL 4 HD ¹
+http://forceie.com:25461/force112179/2179force11/45638
+#EXTINF:-1,TV NOVO TEMPO ³
+http://forceie.com:25461/force112179/2179force11/47763
+#EXTINF:-1,EI PLUS 7 HD ²
+http://forceie.com:25461/force112179/2179force11/47804
+#EXTINF:-1,EI PLUS 7 SD ²
+http://forceie.com:25461/force112179/2179force11/47805
+#EXTINF:-1,EI PLUS 8 SD ²
+http://forceie.com:25461/force112179/2179force11/47806
+#EXTINF:-1,EI PLUS 8 HD ²
+http://forceie.com:25461/force112179/2179force11/47807
+#EXTINF:-1,REDE BRASIL ³
+http://forceie.com:25461/force112179/2179force11/47810
+#EXTINF:-1,CNT ²
+http://forceie.com:25461/force112179/2179force11/47811
+#EXTINF:-1,REAL MADRID TV SD ²
+http://forceie.com:25461/force112179/2179force11/1148
+#EXTINF:-1,GLOBO GOIANIA HD ¹
+http://forceie.com:25461/force112179/2179force11/47812
+#EXTINF:-1,GLOBO BAHIA SD ²
+http://forceie.com:25461/force112179/2179force11/47813
+#EXTINF:-1,FACEBOOK HD 1 ¹
+http://forceie.com:25461/force112179/2179force11/48136
+#EXTINF:-1,FACEBOOK HD 2 ¹
+http://forceie.com:25461/force112179/2179force11/48137
+#EXTINF:-1,EI PLUS ¹
+http://forceie.com:25461/force112179/2179force11/50551
+#EXTINF:-1,TABELAS HD ¹
+http://forceie.com:25461/force112179/2179force11/50552
+#EXTINF:-1,LOADING FHD ¹
+http://forceie.com:25461/force112179/2179force11/50553
+#EXTINF:-1,SMITHSONIAN HD ¹
+http://forceie.com:25461/force112179/2179force11/50554
+#EXTINF:-1,TV UNIVESP EDUCAÇAO HD ¹
+http://forceie.com:25461/force112179/2179force11/50555
+#EXTINF:-1,TRACE BRAZUKA FHD ¹
+http://forceie.com:25461/force112179/2179force11/50556
+#EXTINF:-1,EI PLUS 2 ¹
+http://forceie.com:25461/force112179/2179force11/50557
+#EXTINF:-1,TV RECOMEÇO ¹
+http://forceie.com:25461/force112179/2179force11/50558
+#EXTINF:-1,TV GALEGA ³
+http://forceie.com:25461/force112179/2179force11/50567
+#EXTINF:-1,TOP MIX TV ³
+http://forceie.com:25461/force112179/2179force11/50568
+#EXTINF:-1,Rede Plenitude TV ³
+http://forceie.com:25461/force112179/2179force11/50569
+#EXTINF:-1,Canal Esportes Online ³
+http://forceie.com:25461/force112179/2179force11/50570
+#EXTINF:-1,Canal Promessas ³
+http://forceie.com:25461/force112179/2179force11/50573
+#EXTINF:-1,Semear Tv ³
+http://forceie.com:25461/force112179/2179force11/50574
+#EXTINF:-1,Igreja Evangélica Cristo Vive ³
+http://forceie.com:25461/force112179/2179force11/50578
+#EXTINF:-1,Yeeah! TV ³
+http://forceie.com:25461/force112179/2179force11/50580
+#EXTINF:-1,NHK WORLD - English
+http://forceie.com:25461/force112179/2179force11/50586
+#EXTINF:-1,TV Carioca ³
+http://forceie.com:25461/force112179/2179force11/50587
+#EXTINF:-1,Tv Espírita Do Paraná ³
+http://forceie.com:25461/force112179/2179force11/50588
+#EXTINF:-1,Vintage Tv ³
+http://forceie.com:25461/force112179/2179force11/50590
+#EXTINF:-1,Retro Plus TV ³
+http://forceie.com:25461/force112179/2179force11/50591
+#EXTINF:-1,Tv Vidas Transformadas ³
+http://forceie.com:25461/force112179/2179force11/50593
+#EXTINF:-1,Gostei Gospel Tv ³
+http://forceie.com:25461/force112179/2179force11/50595
+#EXTINF:-1,GLOOBINHO HD ¹
+http://forceie.com:25461/force112179/2179force11/52971
+#EXTINF:-1,REDE VIDA HD ²
+http://forceie.com:25461/force112179/2179force11/53817
+#EXTINF:-1,CAMPEONATO CATARINENSE SD ²
+http://forceie.com:25461/force112179/2179force11/53901
+#EXTINF:-1,CAMPEONATO CATARINENSE HD ²
+http://forceie.com:25461/force112179/2179force11/53902
+#EXTINF:-1,CAMPEONATO CATARINENSE 2 SD ²
+http://forceie.com:25461/force112179/2179force11/53903
+#EXTINF:-1,CAMPEONATO CATARINENSE 2 HD ²
+http://forceie.com:25461/force112179/2179force11/53904
+#EXTINF:-1,CAMPEONATO CATARINENSE 3 SD ²
+http://forceie.com:25461/force112179/2179force11/53905
+#EXTINF:-1,CAMPEONATO CATARINENSE 3 HD ²
+http://forceie.com:25461/force112179/2179force11/53906
+#EXTINF:-1,CAMPEONATO CATARINENSE 4 SD ²
+http://forceie.com:25461/force112179/2179force11/53907
+#EXTINF:-1,CAMPEONATO CATARINENSE 4 HD ²
+http://forceie.com:25461/force112179/2179force11/53908
+#EXTINF:-1,COPA DO NORDESTE SD ²
+http://forceie.com:25461/force112179/2179force11/53909
+#EXTINF:-1,COPA DO NORDESTE HD ²
+http://forceie.com:25461/force112179/2179force11/53910
+#EXTINF:-1,COPA DO NORDESTE 2 SD ²
+http://forceie.com:25461/force112179/2179force11/53911
+#EXTINF:-1,COPA DO NORDESTE 2 HD ²
+http://forceie.com:25461/force112179/2179force11/53912
+#EXTINF:-1,COPA DO NORDESTE 3 SD ²
+http://forceie.com:25461/force112179/2179force11/53913
+#EXTINF:-1,COPA DO NORDESTE 3 HD ²
+http://forceie.com:25461/force112179/2179force11/53914
+#EXTINF:-1,CARIOCA SD ²
+http://forceie.com:25461/force112179/2179force11/53915
+#EXTINF:-1,CARIOCA HD ²
+http://forceie.com:25461/force112179/2179force11/53916
+#EXTINF:-1,CARIOCA 2 SD ²
+http://forceie.com:25461/force112179/2179force11/53917
+#EXTINF:-1,CARIOCA 2 HD ²
+http://forceie.com:25461/force112179/2179force11/53918
+#EXTINF:-1,CARIOCA HD ¹
+http://forceie.com:25461/force112179/2179force11/53919
+#EXTINF:-1,E! HD ¹
+http://forceie.com:25461/force112179/2179force11/53954
+#EXTINF:-1,DISCOVERY WORLD SD ²
+http://forceie.com:25461/force112179/2179force11/54068
+#EXTINF:-1,DISCOVERY THEATER SD ²
+http://forceie.com:25461/force112179/2179force11/54069
+#EXTINF:-1,DISCOVERY SCIENCE SD ²
+http://forceie.com:25461/force112179/2179force11/54070
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD ¹
+http://forceie.com:25461/force112179/2179force11/54071
+#EXTINF:-1,PREMIERE 7 FHD ²
+http://forceie.com:25461/force112179/2179force11/54072
+#EXTINF:-1,ESTÁDIO TNT HD ¹
+http://forceie.com:25461/force112179/2179force11/54073
+#EXTINF:-1,ESTÁDIO TNT 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/54074
+#EXTINF:-1,DAZN HD ²
+http://forceie.com:25461/force112179/2179force11/54075
+#EXTINF:-1,DAZN 2 SD ²
+http://forceie.com:25461/force112179/2179force11/54076
+#EXTINF:-1,DAZN 2 HD ²
+http://forceie.com:25461/force112179/2179force11/54077
+#EXTINF:-1,FISH TV HD ²
+http://forceie.com:25461/force112179/2179force11/54078
+#EXTINF:-1,FISH TV SD ²
+http://forceie.com:25461/force112179/2179force11/54079
+#EXTINF:-1,TLC HD ²
+http://forceie.com:25461/force112179/2179force11/54080
+#EXTINF:-1,TLC FHD ²
+http://forceie.com:25461/force112179/2179force11/54081
+#EXTINF:-1,A&E FHD ²
+http://forceie.com:25461/force112179/2179force11/54082
+#EXTINF:-1,RECORD BELEM SD ²
+http://forceie.com:25461/force112179/2179force11/54083
+#EXTINF:-1,LIGA NACIONAL FUTSAL HD ²
+http://forceie.com:25461/force112179/2179force11/54084
+#EXTINF:-1,LIGA NACIONAL FUTSAL SD ²
+http://forceie.com:25461/force112179/2179force11/54085
+#EXTINF:-1,GLOBO JOINVILE HD ²
+http://forceie.com:25461/force112179/2179force11/32353
+#EXTINF:-1,ESTADIO TNT 3 FHD ¹
+http://forceie.com:25461/force112179/2179force11/54086
+#EXTINF:-1,ESTADIO TNT 4 FHD ¹
+http://forceie.com:25461/force112179/2179force11/54087
+#EXTINF:-1,CAMPEONATO CATARINENSE HD ¹
+http://forceie.com:25461/force112179/2179force11/54088
+#EXTINF:-1,COPA DO NORDESTE HD ¹
+http://forceie.com:25461/force112179/2179force11/54089
+#EXTINF:-1,COPA DO NORDESTE 2 HD ¹
+http://forceie.com:25461/force112179/2179force11/54090
+#EXTINF:-1,MTV LIFE FHD ²
+http://forceie.com:25461/force112179/2179force11/54091
+#EXTINF:-1,VH1 HD ²
+http://forceie.com:25461/force112179/2179force11/54092
+#EXTINF:-1,VH1 MEGA HITS SD ²
+http://forceie.com:25461/force112179/2179force11/54093
+#EXTINF:-1,VH1 MEGA HITS HD ²
+http://forceie.com:25461/force112179/2179force11/54094
+#EXTINF:-1,CAMPEONATO PARAIBANO HD ²
+http://forceie.com:25461/force112179/2179force11/54280
+#EXTINF:-1,CAMPEONATO PARAIBANO SD ²
+http://forceie.com:25461/force112179/2179force11/54281
+#EXTINF:-1,CAMPEONATO PARAIBANO 2 SD ²
+http://forceie.com:25461/force112179/2179force11/54282
+#EXTINF:-1,CAMPEONATO PARAIBANO 2 HD ²
+http://forceie.com:25461/force112179/2179force11/54283
+#EXTINF:-1,CAMPEONATO PARAIBANO 3 SD ²
+http://forceie.com:25461/force112179/2179force11/54284
+#EXTINF:-1,CAMPEONATO PARAIBANO 3 HD ²
+http://forceie.com:25461/force112179/2179force11/54285
+#EXTINF:-1,COPA DO NORDESTE 4 SD ²
+http://forceie.com:25461/force112179/2179force11/54286
+#EXTINF:-1,COPA DO NORDESTE 4 HD ²
+http://forceie.com:25461/force112179/2179force11/54287
+#EXTINF:-1,COPA DO NORDESTE 5 SD ²
+http://forceie.com:25461/force112179/2179force11/54288
+#EXTINF:-1,COPA DO NORDESTE 5 HD ²
+http://forceie.com:25461/force112179/2179force11/54289
+#EXTINF:-1,COPA DO NORDESTE 6 SD ²
+http://forceie.com:25461/force112179/2179force11/54290
+#EXTINF:-1,COPA DO NORDESTE 6 HD ²
+http://forceie.com:25461/force112179/2179force11/54291
+#EXTINF:-1,COPA DO NORDESTE 7 SD ²
+http://forceie.com:25461/force112179/2179force11/54292
+#EXTINF:-1,COPA DO NORDESTE 7 HD ²
+http://forceie.com:25461/force112179/2179force11/54293
+#EXTINF:-1,GLOBO RBS PASSO FUNDO FHD ²
+http://forceie.com:25461/force112179/2179force11/54294
+#EXTINF:-1,GLOBO RBS CRUZ ALTA FHD ²
+http://forceie.com:25461/force112179/2179force11/54295
+#EXTINF:-1,POWER COUPLE BRASIL HD ²
+http://forceie.com:25461/force112179/2179force11/54296
+#EXTINF:-1,POWER COUPLE BRASIL HD ¹
+http://forceie.com:25461/force112179/2179force11/54297
